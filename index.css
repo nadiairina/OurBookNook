@@ -385,7 +385,40 @@ nav#mainNav.transparent .nav-links a::after {
     text-decoration: none;
     transition: color var(--fast);
 }
+/* No ficheiro index.css */
 
+.book-cover-wrapper {
+    position: relative;
+    width: 100%;
+    /* Alteramos de 100% (quadrado) para ~133% ou ~150% (retângulo vertical) */
+    /* 133% dá uma proporção de 3:4, boa para a maioria dos livros */
+    padding-bottom: 133%; 
+    background-color: var(--grey-50); /* Cor de fundo caso a imagem falhe */
+    overflow: hidden;
+    border-radius: 4px; /* Opcional: cantos ligeiramente arredondados */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* Opcional: sombra leve para dar profundidade */
+}
+/* No ficheiro index.css */
+
+.book-cover-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* object-fit: cover;  <-- REMOVA OU COMENTE ESTA LINHA */
+    
+    /* ADICIONE ESTA LINHA: Garante que a imagem inteira aparece */
+    object-fit: contain; 
+    
+    /* Opcional: garantir que a imagem fica centrada */
+    object-position: center; 
+}
+.book-cover-wrapper {
+    /* ... outras propriedades ... */
+    background-color: var(--baby-blue); /* Fundo azul bebé atrás do livro */
+    /* ... outras propriedades ... */
+}
 /* ─── Book / Review Cards ────────────────────────────────────── */
 .cards-grid {
     display: grid;
