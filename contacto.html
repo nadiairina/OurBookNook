@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Book Nook | Contacto</title>
+    <meta name="description" content="Envie a sua correspondência ao Our Book Nook. Adoramos ouvir os nossos leitores.">
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+    <!-- ═══════════════════════════════ NAVIGATION ══════════════════════════════ -->
+    <nav id="mainNav">
+        <div class="nav-inner">
+            <a href="index.html" class="logo">
+                <img src="assets/logo.png" alt="Our Book Nook" class="logo-img">
+            </a>
+            <ul class="nav-links">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="review.html">Reviews</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- ═══════════════════════════════ PAGE HERO ════════════════════════════════ -->
+    <div class="page-hero">
+        <div class="container">
+            <p
+                style="font-family:var(--font-ui);font-size:0.65rem;letter-spacing:4px;text-transform:uppercase;color:var(--gold);margin-bottom:0.8rem;">
+                Correspondência</p>
+            <h1>Enviar Carta</h1>
+            <p>Adoramos receber as vossas palavras e recomendações</p>
+            <div class="rule"></div>
+        </div>
+    </div>
+
+    <main>
+        <section class="section-pad">
+            <div class="container">
+                <div class="contact-wrapper reveal">
+                    <form id="contactForm" style="display:flex;flex-direction:column;gap:1.8rem;">
+
+                        <div class="form-group">
+                            <label class="form-label" for="nome">Vosso Nome</label>
+                            <input class="form-control" type="text" id="nome" name="nome"
+                                placeholder="Como desejam ser chamados?" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label" for="email">Correio Eletrónico</label>
+                            <input class="form-control" type="email" id="email" name="email"
+                                placeholder="vosso@correio.pt" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label" for="assunto">Assunto</label>
+                            <input class="form-control" type="text" id="assunto" name="assunto"
+                                placeholder="Sobre o que nos escrevem?" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label" for="mensagem">Vossa Mensagem</label>
+                            <textarea class="form-control" id="mensagem" name="mensagem" rows="6"
+                                placeholder="Escrevam à vontade…" required></textarea>
+                        </div>
+
+                        <div>
+                            <button type="submit" class="btn btn-gold">Selar &amp; Enviar Carta</button>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- ═══════════════════════════════ FOOTER ══════════════════════════════════ -->
+    <footer>
+        <div class="container">
+            <img src="assets/logo.png" alt="Our Book Nook" class="footer-logo">
+            <p class="footer-tagline">Elegância literária · Azul bebé · Páginas inesquecíveis</p>
+            <div class="footer-divider"></div>
+            <ul class="footer-nav">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="review.html">Reviews</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="#">Instagram</a></li>
+                <li><a href="#">Pinterest</a></li>
+            </ul>
+            <p class="footer-copy">&copy; 1813 – 2024 Our Book Nook. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
