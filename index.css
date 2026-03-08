@@ -105,6 +105,16 @@ nav#mainNav.transparent {
     transition: height var(--fast) var(--ease-mid);
 }
 
+/* No seu ficheiro index.css, procure ou adicione a classe .logo-text */
+.logo-text {
+    font-family: var(--font-display);
+    font-size: 1.8rem; /* Aumentado de um tamanho padrão menor */
+    letter-spacing: 2px;
+    color: var(--navy);
+    text-decoration: none;
+    transition: color var(--fast);
+}
+
 /* Nav links */
 .nav-links {
     display: flex;
@@ -674,4 +684,31 @@ footer {
     .letter-body {
         padding: 2.5rem 1.5rem;
     }
+}
+/* 1. Alterar o fundo da navegação quando deixa de ser transparente */
+#mainNav:not(.transparent) {
+    background-color: var(--baby-blue); /* Toque de azul no topo */
+    box-shadow: 0 2px 15px rgba(0,0,0,0.05);
+}
+
+/* 2. Adicionar um fundo suave a secções de destaque (ex: em index.html ou review.html) */
+.bg-soft-blue {
+    background-color: var(--baby-blue);
+    padding: 4rem 0;
+}
+
+/* 3. Pequenos detalhes em ícones ou divisores */
+.footer-divider {
+    background: var(--baby-blue); /* Substitui o branco/opaco anterior */
+    opacity: 0.5;
+}
+
+/* 4. Botões secundários com tom azul */
+.btn-outline {
+    border: 1px solid var(--baby-blue);
+    color: var(--navy);
+}
+
+.btn-outline:hover {
+    background-color: var(--baby-blue);
 }
