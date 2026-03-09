@@ -788,3 +788,52 @@ footer {
 .close-modal:hover {
     color: var(--gold);
 }
+.book-card {
+    background: #fff;
+    /* Moldura Dourada Principal */
+    border: 2px solid var(--gold); 
+    padding: 10px; /* Espaço entre a moldura externa e o conteúdo */
+    position: relative; /* Necessário para as flores não fugirem da caixa */
+    overflow: visible; /* Deixamos visível para as flores poderem sair um pouco da borda */
+    
+    transition: transform var(--mid) var(--ease-out),
+                box-shadow var(--mid) var(--ease-out);
+    display: flex;
+    flex-direction: column;
+}
+
+/* Moldura interna fina para um aspeto mais luxuoso */
+.book-card::after {
+    content: '';
+    position: absolute;
+    inset: 5px; /* Cria uma linha fina dentro da moldura principal */
+    border: 1px solid rgba(184, 150, 46, 0.3);
+    pointer-events: none;
+}
+/* Flor no Canto Superior Esquerdo */
+.book-card::before {
+    content: '❦'; /* Podes trocar por uma imagem: content: url('flor.png'); */
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    font-size: 1.5rem;
+    color: var(--gold);
+    background: var(--warm-white);
+    padding: 5px;
+    z-index: 10;
+    font-family: serif;
+}
+
+/* Se quiseres outra flor no canto inferior direito */
+.book-card-body::after {
+    content: '❦';
+    position: absolute;
+    bottom: -10px;
+    right: -10px;
+    font-size: 1.5rem;
+    color: var(--gold);
+    background: var(--warm-white);
+    padding: 5px;
+    z-index: 10;
+    transform: rotate(180deg);
+}
