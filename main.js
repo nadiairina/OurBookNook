@@ -28,33 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     reveals.forEach(el => observer.observe(el));
 
-    // ── 3. ANIMAÇÃO DE PÉTALAS/FLORES (EFEITO BOTÂNICO) ─────────────────────
-    const createPetal = () => {
-        const petal = document.createElement('span');
-        petal.innerHTML = '❦'; // Ícone floral elegante
-        petal.style.cssText = `
-            position: fixed;
-            top: -20px;
-            left: ${Math.random() * window.innerWidth}px;
-            color: var(--gold);
-            opacity: ${Math.random() * 0.4};
-            font-size: ${Math.random() * 10 + 10}px;
-            z-index: 1000;
-            pointer-events: none;
-            transition: transform 4s linear, top 4s linear;
-        `;
-        
-        document.body.appendChild(petal);
 
-        setTimeout(() => {
-            petal.style.top = window.innerHeight + 20 + 'px';
-            petal.style.transform = `rotate(${Math.random() * 360}deg) translateX(${Math.random() * 100 - 50}px)`;
-        }, 100);
-
-        setTimeout(() => petal.remove(), 4500);
-    };
-
-    setInterval(createPetal, 2500); // Cria uma pétala a cada 2.5 segundos
 
     // ── 4. EFEITO 3D E SOMBRA DINÂMICA NOS LIVROS ───────────────────────────
     const cards = document.querySelectorAll('.book-card');
