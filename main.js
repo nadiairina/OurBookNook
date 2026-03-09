@@ -85,3 +85,45 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
+// Lógica da Modal de Reviews
+const modal = document.getElementById("reviewModal");
+const closeModal = document.querySelector(".close-modal");
+
+// Seleciona todos os botões "Ler Review"
+document.querySelectorAll('.btn-read-review').forEach(button => {
+    button.addEventListener('click', function(e) {
+        e.preventDefault();
+        
+        // Extrai os dados do botão clicado
+        const title = this.getAttribute('data-title');
+        const stars = this.getAttribute('data-stars');
+        const quote = this.getAttribute('data-quote');
+        const text = this.getAttribute('data-text');
+
+        // Preenche a modal
+        document.getElementById('modalTitle').innerText = title;
+        document.getElementById('modalStars').innerText = stars;
+        document.getElementById('modalQuote').innerText = quote;
+        document.getElementById('modalText').innerText = text;
+
+        // Mostra a modal
+        modal.style.display = "block";
+        document.body.style.overflow = "hidden"; // Impede scroll no fundo
+    });
+});
+
+// Fechar ao clicar no X
+if(closeModal) {
+    closeModal.onclick = function() {
+        modal.style.display = "none";
+        document.body.style.overflow = "auto";
+    }
+}
+
+// Fechar ao clicar fora da janelinha
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+        document.body.style.overflow = "auto";
+    }
+}
