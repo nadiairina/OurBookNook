@@ -837,3 +837,26 @@ footer {
     z-index: 10;
     transform: rotate(180deg);
 }
+/* Efeito de brilho "Glow" nos botões ao passar o rato */
+.btn-gold:hover {
+    box-shadow: 0 0 15px rgba(184, 150, 46, 0.4);
+    letter-spacing: 4px; /* O texto expande suavemente */
+    transition: all 0.4s var(--ease-out);
+}
+
+/* Transição suave para o card (suporte para o efeito 3D do JS) */
+.book-card {
+    transition: transform 0.1s ease-out, box-shadow 0.1s ease-out; /* Rápido para o rato acompanhar */
+    will-change: transform; /* Melhora a performance */
+}
+
+/* Estilo da frase marcante na modal */
+#modalQuote::before {
+    content: '"';
+    font-size: 4rem;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    opacity: 0.1;
+    font-family: var(--font-display);
+}
