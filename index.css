@@ -399,7 +399,6 @@ nav#mainNav.transparent .nav-links a::after {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
     /* object-fit: cover;  <-- REMOVA OU COMENTE ESTA LINHA */
     
     /* ADICIONE ESTA LINHA: Garante que a imagem inteira aparece */
@@ -443,7 +442,7 @@ nav#mainNav.transparent .nav-links a::after {
 .book-card-img img {
     width: 100%;
     height: 260px;
-    object-fit: cover;
+    object-fit: contain;
     transition: transform var(--slow) var(--ease-out);
 }
 
