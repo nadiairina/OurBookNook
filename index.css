@@ -381,16 +381,6 @@ nav#mainNav.transparent .nav-links a::after {
     color: var(--gold);
 }
 
-.logo-text {
-    font-family: var(--font-display);
-    font-size: 1.8rem; /* Aumentado de um tamanho padrão menor */
-    letter-spacing: 2px;
-    color: var(--navy);
-    text-decoration: none;
-    transition: color var(--fast);
-}
-/* No ficheiro index.css */
-
 .book-cover-wrapper {
     position: relative;
     width: 100%;
