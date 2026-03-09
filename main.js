@@ -1,11 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    // ── Navbar scroll / transparency logic ──────────────────────────────────
+    // ── 1. NAVBAR (SCROLL & TRANSPARENCY) ──────────────────────────────────
     const nav = document.getElementById('mainNav');
     const hasHero = document.querySelector('.hero');
 
     if (hasHero) {
-        // Home: starts transparent, becomes solid after scrolling past hero banner
         const handleScroll = () => {
             if (window.scrollY > 60) {
                 nav.classList.remove('transparent');
@@ -14,13 +13,11 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         };
         window.addEventListener('scroll', handleScroll, { passive: true });
-        handleScroll(); // run on load
+        handleScroll();
     }
-    // Inner pages (review, contacto): nav has no 'transparent' class → always solid
 
-    // ── Scroll reveal animations ─────────────────────────────────────────────
+    // ── 2. SCROLL REVEAL (ANIMAÇÕES AO DESCER A PÁGINA) ─────────────────────
     const reveals = document.querySelectorAll('.reveal');
-
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
@@ -31,19 +28,139 @@ document.addEventListener('DOMContentLoaded', () => {
 
     reveals.forEach(el => observer.observe(el));
 
-    // Also activate any reveal elements already in view on page load
-    reveals.forEach(el => {
-        const rect = el.getBoundingClientRect();
-        if (rect.top < window.innerHeight) {
-            el.classList.add('active');
-        }
+    // ── 3. ANIMAÇÃO DE PÉTALAS/FLORES (EFEITO BOTÂNICO) ─────────────────────
+    const createPetal = () => {
+        const petal = document.createElement('span');
+        petal.innerHTML = '❦'; // Ícone floral elegante
+        petal.style.cssText = `
+            position: fixed;
+            top: -20px;
+            left: ${Math.random() * window.innerWidth}px;
+            color: var(--gold);
+            opacity: ${Math.random() * 0.4};
+            font-size: ${Math.random() * 10 + 10}px;
+            z-index: 1000;
+            pointer-events: none;
+            transition: transform 4s linear, top 4s linear;
+        `;
+        
+        document.body.appendChild(petal);
+
+        setTimeout(() => {
+            petal.style.top = window.innerHeight + 20 + 'px';
+            petal.style.transform = `rotate(${Math.random() * 360}deg) translateX(${Math.random() * 100 - 50}px)`;
+        }, 100);
+
+        setTimeout(() => petal.remove(), 4500);
+    };
+
+    setInterval(createPetal, 2500); // Cria uma pétala a cada 2.5 segundos
+
+    // ── 4. EFEITO 3D E SOMBRA DINÂMICA NOS LIVROS ───────────────────────────
+    const cards = document.querySelectorAll('.book-card');
+    
+    cards.forEach(card => {
+        card.addEventListener('mousemove', (e) => {
+            const rect = card.getBoundingClientRect();
+            const x = e.clientX - rect.left;
+            const y = e.clientY - rect.top;
+
+            const centerX = rect.width / 2;
+            const centerY = rect.height / 2;
+            
+            // Inclinação suave
+            const rotateX = (y - centerY) / 15;
+            const rotateY = (centerX - x) / 15;
+
+            card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateY(-10px)`;
+            card.style.boxShadow = `${-rotateY * 3}px ${rotateX * 3}px 35px rgba(28, 43, 58, 0.25)`;
+        });
+
+        card.addEventListener('mouseleave', () => {
+            card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg) translateY(0)`;
+            card.style.boxShadow = '0 10px 30px rgba(0,0,0,0.1)';
+        });
     });
 
-    // ── Smooth scroll for anchor links ───────────────────────────────────────
+    // ── 5. LÓGICA DA MODAL (COM TRANSIÇÕES SUAVES) ──────────────────────────
+    const modal = document.getElementById("reviewModal");
+    const modalContent = document.querySelector(".modal-content");
+    const closeModal = document.querySelector(".close-modal");
+
+    document.querySelectorAll('.btn-read-review').forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            // Preencher dados
+            document.getElementById('modalTitle').innerText = this.getAttribute('data-title');
+            document.getElementById('modalStars').innerText = this.getAttribute('data-stars');
+            document.getElementById('modalQuote').innerText = this.getAttribute('data-quote');
+            document.getElementById('modalText').innerText = this.getAttribute('data-text');
+
+            // Reset de estilos para animação de entrada
+            modal.style.display = "block";
+            modal.style.opacity = "0";
+            modalContent.style.transform = "scale(0.8) translateY(30px)";
+            
+            // Trigger da animação
+            setTimeout(() => {
+                modal.style.transition = "opacity 0.4s ease";
+                modalContent.style.transition = "transform 0.5s cubic-bezier(0.16, 1, 0.3, 1)";
+                modal.style.opacity = "1";
+                modalContent.style.transform = "scale(1) translateY(0)";
+            }, 10);
+            
+            document.body.style.overflow = "hidden";
+        });
+    });
+
+    const closeWithAnim = () => {
+        modal.style.opacity = "0";
+        modalContent.style.transform = "scale(0.8) translateY(30px)";
+        setTimeout(() => {
+            modal.style.display = "none";
+            document.body.style.overflow = "auto";
+        }, 400);
+    };
+
+    if(closeModal) closeModal.onclick = closeWithAnim;
+    window.onclick = (event) => { if (event.target == modal) closeWithAnim(); };
+
+    // ── 6. CONTACT FORM (SIMULADO) ──────────────────────────────────────────
+    const form = document.getElementById('contactForm');
+    if (form) {
+        form.addEventListener('submit', e => {
+            e.preventDefault();
+            const btn = form.querySelector('button[type="submit"]');
+            const orig = btn.innerHTML;
+            btn.innerText = 'A selar mensagem…';
+            btn.disabled = true;
+
+            setTimeout(() => {
+                const msg = document.createElement('p');
+                msg.innerHTML = '❦ A vossa correspondência foi enviada com sucesso!';
+                msg.style.cssText = `
+                    font-family: var(--font-body);
+                    font-style: italic;
+                    color: var(--gold);
+                    margin-top: 1.5rem;
+                    text-align: center;
+                    animation: fadeIn 1s ease;
+                `;
+                form.appendChild(msg);
+                form.reset();
+                btn.innerHTML = orig;
+                btn.disabled = false;
+                setTimeout(() => msg.remove(), 5000);
+            }, 1500);
+        });
+    }
+
+    // ── 7. SMOOTH SCROLL PARA LINKS ─────────────────────────────────────────
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             const id = this.getAttribute('href');
-            if (id === '#') return;
+            if (id === '#' || this.classList.contains('btn-read-review')) return;
             const target = document.querySelector(id);
             if (target) {
                 e.preventDefault();
@@ -51,79 +168,4 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
-
-    // ── Contact form (simulated) ──────────────────────────────────────────────
-    const form = document.getElementById('contactForm');
-    if (form) {
-        form.addEventListener('submit', e => {
-            e.preventDefault();
-            const btn = form.querySelector('button[type="submit"]');
-            const orig = btn.textContent;
-            btn.textContent = 'A enviar…';
-            btn.disabled = true;
-
-            setTimeout(() => {
-                // Show success message
-                const msg = document.createElement('p');
-                msg.textContent = '✦ A vossa mensagem foi selada e enviada com sucesso!';
-                msg.style.cssText = `
-                    font-family: var(--font-body);
-                    font-style: italic;
-                    font-size: 1.05rem;
-                    color: var(--gold);
-                    margin-top: 1rem;
-                    text-align: center;
-                `;
-                form.appendChild(msg);
-                form.reset();
-                btn.textContent = orig;
-                btn.disabled = false;
-
-                setTimeout(() => msg.remove(), 4000);
-            }, 1200);
-        });
-    }
-
 });
-// Lógica da Modal de Reviews
-const modal = document.getElementById("reviewModal");
-const closeModal = document.querySelector(".close-modal");
-
-// Seleciona todos os botões "Ler Review"
-document.querySelectorAll('.btn-read-review').forEach(button => {
-    button.addEventListener('click', function(e) {
-        e.preventDefault();
-        
-        // Extrai os dados do botão clicado
-        const title = this.getAttribute('data-title');
-        const stars = this.getAttribute('data-stars');
-        const quote = this.getAttribute('data-quote');
-        const text = this.getAttribute('data-text');
-
-        // Preenche a modal
-        document.getElementById('modalTitle').innerText = title;
-        document.getElementById('modalStars').innerText = stars;
-        document.getElementById('modalQuote').innerText = quote;
-        document.getElementById('modalText').innerText = text;
-
-        // Mostra a modal
-        modal.style.display = "block";
-        document.body.style.overflow = "hidden"; // Impede scroll no fundo
-    });
-});
-
-// Fechar ao clicar no X
-if(closeModal) {
-    closeModal.onclick = function() {
-        modal.style.display = "none";
-        document.body.style.overflow = "auto";
-    }
-}
-
-// Fechar ao clicar fora da janelinha
-window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-        document.body.style.overflow = "auto";
-    }
-}
