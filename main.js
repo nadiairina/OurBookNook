@@ -154,3 +154,11 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+// Dentro da lógica do formulário no main.js
+setTimeout(() => {
+    const msg = document.createElement('p');
+    msg.innerHTML = '❦ <i>A vossa carta foi selada com cera e enviada pelo mensageiro mais rápido.</i>';
+    msg.style.cssText = "color: var(--gold); font-family: 'Cormorant Garamond', serif; font-size: 1.2rem; text-align: center; margin-top: 2rem; animation: fadeIn 1s ease;";
+    form.appendChild(msg);
+    // ... resto do código
+}, 1500);
