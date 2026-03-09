@@ -42,42 +42,44 @@
 
     <main>
         <section class="section-pad">
-            <div class="container">
-                <div class="contact-wrapper reveal">
-                    <form id="contactForm" style="display:flex;flex-direction:column;gap:1.8rem;">
-
-                        <div class="form-group">
-                            <label class="form-label" for="nome">Nome</label>
-                            <input class="form-control" type="text" id="nome" name="nome"
-                                 required>
-                        </div>
-
-                        <div class="form-group">
-                            <label class="form-label" for="email">Email</label>
-                            <input class="form-control" type="email" id="email" name="email"
-                                 required>
-                        </div>
-
-                        <div class="form-group">
-                            <label class="form-label" for="assunto">Assunto</label>
-                            <input class="form-control" type="text" id="assunto" name="assunto"
-                                 required>
-                        </div>
-
-                        <div class="form-group">
-                            <label class="form-label" for="mensagem"> Mensagem</label>
-                            <textarea class="form-control" id="mensagem" name="mensagem" rows="6"
-                               required></textarea>
-                        </div>
-
-                        <div>
-                            <button type="submit" class="btn btn-gold"><i>Enviar</i></button>
-                        </div>
-<div class="rule"></div>
-                    </form>
-                </div>
+    <div class="container">
+        <div class="letter-envelope reveal">
+            <div class="letter-header">
+                <img src="logo.png" alt="Our Book Nook" class="letter-logo">
+                <p class="letter-date">Londres, Março de 1813</p>
             </div>
-        </section>
+            
+            <div class="letter-body">
+                <h2 class="section-title">Deixe a sua Correspondência</h2>
+                <p class="section-subtitle">Adoramos receber notícias dos nossos caros leitores.</p>
+
+                <form id="contactForm" class="stagger">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label class="form-label" for="nome">Vosso Nome</label>
+                            <input type="text" class="form-control" id="nome" placeholder="Ex: Srta. Elizabeth" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" for="email">Vosso E-mail</label>
+                            <input type="email" class="form-control" id="email" placeholder="Para a nossa resposta..." required>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="form-label" for="mensagem">A vossa Mensagem</label>
+                        <textarea class="form-control" id="mensagem" rows="6" placeholder="Escreva aqui os vossos pensamentos..." required></textarea>
+                    </div>
+
+                    <div style="text-align: center; margin-top: 2rem;">
+                        <button type="submit" class="btn btn-gold btn-send">
+                            <span>Sellar & Enviar</span>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
     </main>
 
     <!-- ═══════════════════════════════ FOOTER ══════════════════════════════════ -->
