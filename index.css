@@ -860,3 +860,52 @@ footer {
     opacity: 0.1;
     font-family: var(--font-display);
 }
+/* Flores Estáticas nos Cantos do Website */
+body::before, body::after {
+    content: '❦'; 
+    position: fixed;
+    font-size: 5rem;
+    color: var(--gold);
+    opacity: 0.15; /* Suave para não atrapalhar a leitura */
+    z-index: -1; /* Fica por trás de tudo */
+    font-family: serif;
+    pointer-events: none;
+}
+
+/* Flor Canto Superior Esquerdo */
+body::before {
+    top: 20px;
+    left: 20px;
+    transform: rotate(-45deg);
+}
+
+/* Flor Canto Inferior Direito */
+body::after {
+    bottom: 20px;
+    right: 20px;
+    transform: rotate(135deg);
+}
+
+/* Flores adicionais para os outros cantos */
+.extra-decor-1, .extra-decor-2 {
+    position: fixed;
+    font-size: 5rem;
+    color: var(--gold);
+    opacity: 0.15;
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* Superior Direito */
+.extra-decor-1 {
+    top: 20px;
+    right: 20px;
+    transform: rotate(45deg);
+}
+
+/* Inferior Esquerdo */
+.extra-decor-2 {
+    bottom: 20px;
+    left: 20px;
+    transform: rotate(-135deg);
+}
