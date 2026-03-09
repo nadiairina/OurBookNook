@@ -28,9 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     reveals.forEach(el => observer.observe(el));
 
-
-
-    // ── 4. EFEITO 3D E SOMBRA DINÂMICA NOS LIVROS ───────────────────────────
+    // ── 3. EFEITO 3D E SOMBRA DINÂMICA NOS LIVROS ───────────────────────────
     const cards = document.querySelectorAll('.book-card');
     
     cards.forEach(card => {
@@ -42,7 +40,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const centerX = rect.width / 2;
             const centerY = rect.height / 2;
             
-            // Inclinação suave
             const rotateX = (y - centerY) / 15;
             const rotateY = (centerX - x) / 15;
 
@@ -56,27 +53,38 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // ── 5. LÓGICA DA MODAL (COM TRANSIÇÕES SUAVES) ──────────────────────────
+    // ── 4. LÓGICA DA MODAL (ABRIR REVIEW) ──────────────────────────────────
     const modal = document.getElementById("reviewModal");
     const modalContent = document.querySelector(".modal-content");
     const closeModal = document.querySelector(".close-modal");
 
-    document.querySelectorAll('.btn-read-review').forEach(button => {
+    // Seleciona botões de review (funciona na página de Reviews e nos Destaques da Home)
+    const allReviewBtns = document.querySelectorAll('.btn-read-review, .btn-outline[data-title]');
+
+    allReviewBtns.forEach(button => {
         button.addEventListener('click', function(e) {
             e.preventDefault();
             
-            // Preencher dados
-            document.getElementById('modalTitle').innerText = this.getAttribute('data-title');
-            document.getElementById('modalStars').innerText = this.getAttribute('data-stars');
-            document.getElementById('modalQuote').innerText = this.getAttribute('data-quote');
-            document.getElementById('modalText').innerText = this.getAttribute('data-text');
+            // Captura os dados do botão
+            const title = this.getAttribute('data-title');
+            const stars = this.getAttribute('data-stars');
+            const quote = this.getAttribute('data-quote');
+            const text = this.getAttribute('data-text');
 
-            // Reset de estilos para animação de entrada
+            // Se o botão não tiver dados, não faz nada (evita erro em links vazios)
+            if(!title) return;
+
+            // Preencher a modal
+            document.getElementById('modalTitle').innerText = title;
+            document.getElementById('modalStars').innerText = stars;
+            document.getElementById('modalQuote').innerText = quote;
+            document.getElementById('modalText').innerText = text;
+
+            // Mostrar com animação
             modal.style.display = "block";
             modal.style.opacity = "0";
             modalContent.style.transform = "scale(0.8) translateY(30px)";
             
-            // Trigger da animação
             setTimeout(() => {
                 modal.style.transition = "opacity 0.4s ease";
                 modalContent.style.transition = "transform 0.5s cubic-bezier(0.16, 1, 0.3, 1)";
@@ -84,11 +92,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 modalContent.style.transform = "scale(1) translateY(0)";
             }, 10);
             
-            document.body.style.overflow = "hidden";
+            document.body.style.overflow = "hidden"; // Bloqueia scroll do fundo
         });
     });
 
+    // Função para fechar a modal
     const closeWithAnim = () => {
+        if(!modal) return;
         modal.style.opacity = "0";
         modalContent.style.transform = "scale(0.8) translateY(30px)";
         setTimeout(() => {
@@ -100,7 +110,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if(closeModal) closeModal.onclick = closeWithAnim;
     window.onclick = (event) => { if (event.target == modal) closeWithAnim(); };
 
-    // ── 6. CONTACT FORM (SIMULADO) ──────────────────────────────────────────
+    // ── 5. FORMULÁRIO DE CONTACTO ──────────────────────────────────────────
     const form = document.getElementById('contactForm');
     if (form) {
         form.addEventListener('submit', e => {
@@ -119,7 +129,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     color: var(--gold);
                     margin-top: 1.5rem;
                     text-align: center;
-                    animation: fadeIn 1s ease;
                 `;
                 form.appendChild(msg);
                 form.reset();
@@ -130,11 +139,13 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // ── 7. SMOOTH SCROLL PARA LINKS ─────────────────────────────────────────
+    // ── 6. SMOOTH SCROLL PARA LINKS ─────────────────────────────────────────
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             const id = this.getAttribute('href');
-            if (id === '#' || this.classList.contains('btn-read-review')) return;
+            // Não aplica smooth scroll se for o botão de abrir review
+            if (id === '#' || this.hasAttribute('data-title')) return;
+            
             const target = document.querySelector(id);
             if (target) {
                 e.preventDefault();
