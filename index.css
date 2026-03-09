@@ -108,11 +108,18 @@ nav#mainNav.transparent {
 /* No seu ficheiro index.css, procure ou adicione a classe .logo-text */
 .logo-text {
     font-family: var(--font-display);
-    font-size: 1.8rem; /* Aumentado de um tamanho padrão menor */
-    letter-spacing: 2px;
+    font-size: 2.5rem; /* Aumentado de 1.8rem para 2.5rem */
+    font-weight: 700;  /* Adicionado para dar mais "corpo" à marca */
+    letter-spacing: 1px; /* Reduzi levemente para manter a legibilidade em tamanhos maiores */
     color: var(--navy);
     text-decoration: none;
-    transition: color var(--fast);
+    line-height: 1;    /* Garante que o espaçamento vertical não quebre o layout */
+    transition: color var(--fast), transform var(--fast);
+}
+
+/* Opcional: Um leve efeito de escala ao passar o mouse */
+.logo-text:hover {
+    transform: scale(1.05);
 }
 
 /* Nav links */
