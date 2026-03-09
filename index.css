@@ -909,3 +909,67 @@ body::after {
     left: 20px;
     transform: rotate(-135deg);
 }
+/* Container que parece uma carta */
+.letter-envelope {
+    background: var(--warm-white);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 3rem;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.05), inset 0 0 100px rgba(237, 231, 219, 0.2);
+    border: 1px solid var(--border);
+    position: relative;
+}
+
+.letter-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--gold);
+    padding-bottom: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.letter-logo {
+    height: 50px;
+    opacity: 0.7;
+}
+
+.letter-date {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    color: var(--text-muted);
+}
+
+/* Inputs que parecem linhas de escrita */
+.form-control {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--border);
+    border-radius: 0;
+    padding: 0.8rem 0;
+    transition: all 0.3s ease;
+}
+
+.form-control:focus {
+    border-bottom-color: var(--gold);
+    box-shadow: none;
+    background: rgba(184, 150, 46, 0.02);
+}
+
+/* Botão com efeito de selo de cera */
+.btn-send {
+    padding: 1rem 3rem;
+    font-size: 1.1rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-send::after {
+    content: '❦';
+    margin-left: 10px;
+    transition: transform 0.4s;
+}
+
+.btn-send:hover::after {
+    transform: rotate(360deg);
+}
