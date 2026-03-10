@@ -1059,3 +1059,65 @@ body::after {
     position: relative;
     z-index: 2; /* Garante que o texto fica "à frente" da película escura */
 }
+/* Aumentar o destaque da carta */
+.letter-envelope {
+    background: #fff;
+    padding: 5rem;
+    border: 1px solid var(--border);
+    box-shadow: 20px 20px 0px var(--parchment); /* Efeito de papel sobreposto */
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* O título precisa de ser maior e mais clássico */
+.section-title {
+    font-family: var(--font-display);
+    font-size: 2.8rem;
+    font-style: italic;
+    color: var(--navy);
+    margin-bottom: 2rem;
+}
+
+/* A primeira frase deve prender o olhar */
+.intro-lead {
+    font-size: 1.4rem;
+    color: var(--gold);
+    font-weight: 500;
+    margin-bottom: 2rem;
+}
+
+/* Texto principal mais legível e espaçado */
+.letter-body p {
+    font-size: 1.25rem; /* Aumentado */
+    line-height: 1.8;
+    color: var(--text-primary);
+    margin-bottom: 1.5rem;
+    text-align: justify;
+}
+
+/* Destacar as descrições das três amigas */
+.profiles-grid {
+    border-left: 2px solid var(--gold-light);
+    padding-left: 2rem;
+    margin: 2.5rem 0;
+    font-style: italic;
+}
+
+.profiles-grid p {
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
+}
+
+/* A assinatura final */
+.signature {
+    margin-top: 3rem;
+    font-family: var(--font-display);
+    font-size: 1.4rem !important;
+    text-align: right;
+}
+
+.signature span {
+    font-size: 2.5rem;
+    color: var(--gold);
+    display: block;
+}
