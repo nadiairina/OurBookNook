@@ -973,3 +973,58 @@ body::after {
 .btn-send:hover::after {
     transform: rotate(360deg);
 }
+/* Dar mais espaço à "carta" */
+.letter-envelope {
+    background: var(--warm-white);
+    max-width: 900px; /* Aumentado de 800px para 900px para respirar melhor */
+    margin: 4rem auto; /* Mais espaço em cima e em baixo */
+    padding: 4rem; /* Aumentado de 3rem para 4rem */
+    box-shadow: 0 20px 50px rgba(0,0,0,0.05), inset 0 0 100px rgba(237, 231, 219, 0.2);
+    border: 1px solid var(--border);
+    position: relative;
+}
+
+/* Espaçamento entre os campos do formulário */
+.form-group {
+    margin-bottom: 2.5rem; /* Aumentado para os campos não ficarem colados */
+}
+
+/* Ajustar a grelha de Nome e Email */
+.form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem; /* Aumentado o espaço entre as duas colunas */
+}
+
+/* Aumentar o espaço interno dos inputs */
+.form-control {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--border);
+    border-radius: 0;
+    padding: 1rem 0; /* Mais espaço para o texto respirar */
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    width: 100%;
+}
+
+/* Título da secção dentro da carta */
+.letter-body .section-title {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.letter-body .section-subtitle {
+    margin-bottom: 3rem; /* Mais espaço antes de começar o formulário */
+}
+@media (max-width: 768px) {
+    .letter-envelope {
+        padding: 2rem;
+        margin: 2rem 1rem;
+    }
+
+    .form-row {
+        grid-template-columns: 1fr; /* Nome e Email ficam um por cima do outro em mobile */
+        gap: 0;
+    }
+}
