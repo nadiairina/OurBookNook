@@ -51,7 +51,7 @@ A narrativa é detalhada e consegue transportar-nos facilmente para aquele tempo
 No final, apesar de toda a intensidade, tristeza, vingança e raiva que atravessam a história, existe um certo alívio ao ver a narrativa ir para algo mais próximo da paz. 
 
 É um livro duro, intenso e memorável e recomendo muito a leitura para quem quer experimentar um clássico que realmente fica connosco.`
-            signedBy: "Nádia Filipa"
+            signedBy: "Nádia Filipa."
         },
         "Os Sete Maridos De Evelyn Hugo": {
             stars: "★★★★★",
