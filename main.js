@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // IMPORTANTE: O nome aqui deve ser exatamente igual ao título no HTML
     const reviewsData = {
         "O Monte dos Vendavais": {
-            stars: "★★★★☆",
+            stars: "★★★★★",
             quote: `Ele é mais eu do que eu própria. Seja lá do que for que as nossas almas são feitas, a minha e a dele são feitas do mesmo.” - Catherine Earnshaw",
             text: "Um clássico intenso que não pede desculpa: “Wuthering Hights”.
 
