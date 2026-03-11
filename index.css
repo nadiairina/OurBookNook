@@ -99,7 +99,7 @@ nav#mainNav.transparent {
 
 /* Se o teu logo for uma IMAGEM */
 .logo-img {
-    height: 230px; 
+    height: 240px; 
     width: auto;
     object-fit: contain;
     transition: height var(--fast) var(--ease-mid);
