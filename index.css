@@ -1191,3 +1191,60 @@ body::after {
         justify-content: center;
     }
 }
+/* Garante que a grelha alinha os itens pela altura (caso queiras usar alturas automáticas) */
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+    align-items: stretch; /* Estica os itens para terem a mesma altura na linha */
+}
+
+/* Padroniza o tamanho do cartão do livro */
+.book-card {
+    background: var(--warm-white);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: box-shadow 0.3s ease; /* Mantém apenas uma sombra suave na transição */
+    
+    /* Define uma altura padrão para todos os cartões */
+    height: 500px; /* Ajusta este valor conforme necessário */
+    
+    /* Usa Flexbox para organizar o conteúdo internamente */
+    display: flex;
+    flex-direction: column;
+}
+
+/* Remove qualquer transformação no hover que tenha ficado */
+.book-card:hover {
+    transform: none !important;
+    box-shadow: 0 10px 30px rgba(28, 43, 58, 0.1);
+}
+
+/* Ajusta o corpo do cartão para ocupar o espaço disponível */
+.book-card-body {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; /* Faz o corpo crescer para preencher a altura do cartão */
+}
+
+/* Garante que o resumo (excerpt) não quebre o layout se for muito longo */
+.book-card-excerpt {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+    
+    /* Limita o número de linhas visíveis no resumo (opcional, mas recomendado) */
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Mostra apenas 3 linhas */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Empurra a zona dos botões para o fundo do cartão */
+.book-card-actions {
+    margin-top: auto; /* Truque do Flexbox para empurrar para o fundo */
+    padding-top: 1rem;
+}
