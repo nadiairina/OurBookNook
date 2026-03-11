@@ -137,3 +137,57 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+const modal = document.getElementById("reviewModal");
+const closeModal = document.querySelector(".close-modal");
+
+// 1. Criar um "banco de dados" das reviews
+const reviews = {
+    "O Monte dos Vendavais": {
+        stars: "★★★★★",
+        quote: "Ele é mais eu própria do que eu mesma.",
+        text: "Uma história visceral sobre obsessão e amor vingativo. A escrita de Brontë transporta-nos para as charnecas de Yorkshire de forma magistral..."
+    },
+    "Os Sete Maridos de Evelyn Hugo": {
+        stars: "★★★★★",
+        quote: "Eles são apenas maridos. Eu sou a Evelyn Hugo.",
+        text: "Uma jornada glamorosa e dolorosa pelos segredos de Hollywood. Evelyn ensina-nos que a verdade é muito mais complexa do que as manchetes dos jornais."
+    }
+    // Adiciona os outros livros aqui seguindo o mesmo padrão
+};
+
+// 2. Função para abrir a modal
+document.querySelectorAll('.btn-outline').forEach(button => {
+    button.addEventListener('click', (e) => {
+        e.preventDefault(); // Impede de saltar para outra página
+        
+        // Descobre qual é o livro baseado no título do card
+        const card = button.closest('.book-card');
+        const title = card.querySelector('.book-card-title').innerText;
+        const author = card.querySelector('.book-card-author').innerText;
+        const data = reviews[title];
+
+        if (data) {
+            document.getElementById('modalTitle').innerText = title;
+            document.getElementById('modalAuthor').innerText = author;
+            document.getElementById('modalStars').innerText = data.stars;
+            document.getElementById('modalQuote').innerText = `"${data.quote}"`;
+            document.getElementById('modalText').innerText = data.text;
+            
+            modal.style.display = "block";
+            document.body.style.overflow = "hidden"; // Impede o scroll atrás da modal
+        }
+    });
+});
+
+// 3. Fechar a modal
+closeModal.onclick = () => {
+    modal.style.display = "none";
+    document.body.style.overflow = "auto";
+};
+
+window.onclick = (event) => {
+    if (event.target == modal) {
+        modal.style.display = "none";
+        document.body.style.overflow = "auto";
+    }
+};
