@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const reviewsData = {
         "O Monte dos Vendavais": {
             stars: "★★★★☆",
-            quote: "Ele é mais eu própria do que eu mesma.",
+            quote: "Ele é mais eu do que eu própria. Seja lá do que for que as nossas almas são feitas, a minha e a dele são feitas do mesmo.” - Catherine Earnshaw",
             text: "Uma história visceral sobre obsessão e amor vingativo. A escrita de Brontë transporta-nos para as charnecas da alma humana de forma crua e inesquecível."
         },
         "Os Sete Maridos De Evelyn Hugo": {
