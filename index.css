@@ -1202,7 +1202,7 @@ body::after {
 /* 1. Padroniza o tamanho do cartão */
 .book-card {
     background: var(--warm-white);
-    border: 1px solid var(--border);
+    border: 2px solid var(--gold);
     border-radius: 12px;
     display: flex;
     flex-direction: column;
