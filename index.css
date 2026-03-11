@@ -16,7 +16,7 @@
     --text-muted: #6B7B8A;
     --border: rgba(168, 191, 204, 0.35);
     --nav-bg: #EDE7DB;
-    --nav-height: 160px;
+    --nav-height: 100px;
 
     --font-display: 'Playfair Display', serif;
     --font-body: 'Cormorant Garamond', serif;
@@ -99,7 +99,7 @@ nav#mainNav.transparent {
 
 /* Se o teu logo for uma IMAGEM */
 .logo-img {
-    height: 200px; 
+    height: 230px; 
     width: auto;
     object-fit: contain;
     transition: height var(--fast) var(--ease-mid);
