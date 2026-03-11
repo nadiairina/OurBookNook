@@ -1121,3 +1121,26 @@ body::after {
     color: var(--gold);
     display: block;
 }
+.modal-content {
+    background-color: var(--warm-white);
+    border: 2px solid var(--gold); /* Moldura dourada para combinar com os cards */
+    padding: 3rem;
+    max-width: 700px;
+    line-height: 1.8;
+}
+
+#modalQuote {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 1.4rem;
+    color: var(--gold);
+    text-align: center;
+    margin: 2rem 0;
+    padding: 0 1rem;
+}
+
+#modalText {
+    font-size: 1.15rem;
+    color: var(--text-primary);
+    text-align: justify;
+}
