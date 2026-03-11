@@ -70,6 +70,11 @@ document.addEventListener('DOMContentLoaded', () => {
             quote: "Ninguém sabe o que acontece atrás de portas fechadas.",
             text: "Um thriller psicológico viciante e claustrofóbico. Freida McFadden constrói uma teia de mentiras que nos mantém a adivinhar até à última página."
         }
+        "Twisted Lies": {
+            stars: "★★★★☆",
+            quote: "Ninguém sabe o que acontece atrás de portas fechadas.",
+            text: "Um thriller psicológico viciante e claustrofóbico. Freida McFadden constrói uma teia de mentiras que nos mantém a adivinhar até à última página."
+        }
     };
 
     // Função para fechar a modal de forma limpa
