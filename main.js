@@ -33,12 +33,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const closeModal = document.querySelector(".close-modal");
 
     // "Base de Dados" das reviews
-    // IMPORTANTE: O nome aqui deve ser exatamente igual ao título no HTML
     const reviewsData = {
         "O Monte dos Vendavais": {
-            stars: "★★★★★",
-            quote: `Ele é mais eu do que eu própria. Seja lá do que for que as nossas almas são feitas, a minha e a dele são feitas do mesmo.” - Catherine Earnshaw",
-            text: "Um clássico intenso que não pede desculpa: “Wuthering Hights”.
+            stars: "★★★★☆",
+            quote: "Ele é mais eu do que eu própria. Seja lá do que for que as nossas almas são feitas, a minha e a dele são feitas do mesmo.” - Catherine Earnshaw",
+            text: `Um clássico intenso que não pede desculpa: “Wuthering Hights”.
 
 Há livros que gostamos… e há livros que nos marcam. O Monte dos Vendavais, de Emily Brontë pertence claramente à segunda categoria. Publicado em 1847, este clássico da literatura inglesa continua a ser uma leitura poderosa, sombria e emocionalmente intensa, daquelas que ficam connosco muito depois de virarmos a última página.
 
@@ -84,9 +83,9 @@ No final, apesar de toda a intensidade, tristeza, vingança e raiva que atravess
             text: "Um thriller psicológico viciante e claustrofóbico. Freida McFadden constrói uma teia de mentiras que nos mantém a adivinhar até à última página."
         },
         "Twisted Lies": {
-            stars: "★★★★☆",
-            quote: "Ninguém sabe o que acontece atrás de portas fechadas.",
-            text: "Um thriller psicológico viciante e claustrofóbico. Freida McFadden constrói uma teia de mentiras que nos mantém a adivinhar até à última página."
+            stars: "★★★★★",
+            quote: "Faria qualquer coisa para te manter, mesmo que isso significasse queimar o mundo.",
+            text: "O desfecho viciante da série Twisted. Uma história de segredos, perigo e um amor possessivo que nos prende do início ao fim."
         }
     };
 
@@ -114,6 +113,7 @@ No final, apesar de toda a intensidade, tristeza, vingança e raiva que atravess
                 document.getElementById('modalAuthor').innerText = author;
                 document.getElementById('modalStars').innerText = data.stars;
                 document.getElementById('modalQuote').innerText = `"${data.quote}"`;
+                // Insere o texto completo na modal
                 document.getElementById('modalText').innerText = data.text;
                 
                 modal.style.display = "block";
@@ -141,25 +141,5 @@ No final, apesar de toda a intensidade, tristeza, vingança e raiva que atravess
         }
     });
 
-    // ── 4. EFEITO 3D NOS CARDS (Suavizado para não irritar) ────────
-    const cards = document.querySelectorAll('.book-card');
-    cards.forEach(card => {
-        card.addEventListener('mousemove', (e) => {
-            const rect = card.getBoundingClientRect();
-            const x = e.clientX - rect.left;
-            const y = e.clientY - rect.top;
-            const centerX = rect.width / 2;
-            const centerY = rect.height / 2;
-
-            // Dividido por 45 para o movimento ser muito subtil
-            const rotateX = (y - centerY) / 45;
-            const rotateY = (centerX - x) / 45;
-
-            card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) scale(1.01)`;
-        });
-
-        card.addEventListener('mouseleave', () => {
-            card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg) scale(1)`;
-        });
-    });
+    // A SECÇÃO DO EFEITO 3D FOI REMOVIDA DAQUI
 });
