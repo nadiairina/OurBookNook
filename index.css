@@ -1252,3 +1252,28 @@ body::after {
     margin-top: auto;
     padding-bottom: 0.5rem;
 }
+.book-card-signature {
+    margin-top: auto; /* Empurra para o fundo se houver espaço */
+    padding-top: 15px;
+    border-top: 1px double var(--border);
+    text-align: right;
+    padding-right: 5px;
+    margin-bottom: 1rem;
+}
+
+.book-card-signature p {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin-bottom: 2px;
+}
+
+.book-card-signature span {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.3rem;
+    color: var(--gold);
+    display: block;
+}
