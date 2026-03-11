@@ -32,55 +32,49 @@ document.addEventListener('DOMContentLoaded', () => {
     const modal = document.getElementById("reviewModal");
     const closeModal = document.querySelector(".close-modal");
 
-    // "Base de Dados" das reviews - O nome deve ser IDÊNTICO ao título no HTML
     const reviewsData = {
         "O Monte dos Vendavais": {
             stars: "★★★★★",
             quote: "Ele é mais eu própria do que eu mesma.",
-            text: "Uma história visceral sobre obsessão e amor vingativo. A escrita de Brontë transporta-nos para as charnecas de Yorkshire de forma magistral, onde os sentimentos são tão selvagens quanto o clima."
+            text: "Uma história visceral sobre obsessão e amor vingativo. A escrita de Brontë transporta-nos para as charnecas de Yorkshire de forma magistral..."
         },
         "Os Sete Maridos de Evelyn Hugo": {
             stars: "★★★★★",
             quote: "Eles são apenas maridos. Eu sou a Evelyn Hugo.",
-            text: "Uma jornada glamorosa e dolorosa pelos segredos de Hollywood. Evelyn ensina-nos que a verdade é muito mais complexa do que as manchetes dos jornais e que o amor verdadeiro raramente é o que o público vê."
+            text: "Uma jornada glamorosa e dolorosa pelos segredos de Hollywood. Evelyn ensina-nos que a verdade é muito mais complexa do que as manchetes dos jornais."
         },
         "Twisted Lies": {
             stars: "★★★★★",
             quote: "Ele faria qualquer coisa para a manter.",
-            text: "Um romance intenso e viciante que nos prende do início ao fim. A química entre Christian e Stella é palpável, explorando os limites entre a proteção e a obsessão no mundo moderno."
+            text: "Um romance intenso e viciante que nos prende do início ao fim."
         }
     };
 
-    // Função para abrir a modal ao clicar no botão
-    const reviewButtons = document.querySelectorAll('.btn-outline');
-    
-    reviewButtons.forEach(button => {
+    document.querySelectorAll('.btn-outline').forEach(button => {
         button.addEventListener('click', (e) => {
-            // Se o botão for de review, impedimos a navegação e abrimos a modal
-            if (button.innerText.toLowerCase().includes("review")) {
-                e.preventDefault();
-                
-                const card = button.closest('.book-card');
-                const title = card.querySelector('.book-card-title').innerText.trim();
-                const author = card.querySelector('.book-card-author').innerText.trim();
-                const data = reviewsData[title];
+            e.preventDefault();
+            
+            const card = button.closest('.book-card');
+            // O .trim() é ESSENCIAL aqui para limpar espaços do HTML
+            const title = card.querySelector('.book-card-title').innerText.trim();
+            const author = card.querySelector('.book-card-author').innerText.trim();
+            
+            const data = reviewsData[title];
 
-                if (data && modal) {
-                    document.getElementById('modalTitle').innerText = title;
-                    document.getElementById('modalAuthor').innerText = author;
-                    document.getElementById('modalStars').innerText = data.stars;
-                    document.getElementById('modalQuote').innerText = `"${data.quote}"`;
-                    document.getElementById('modalText').innerText = data.text;
-                    
-                    modal.style.display = "block";
-                    document.body.style.overflow = "hidden"; // Retira o scroll do site ao fundo
-                } else {
-                    console.error("Review não encontrada para o título:", title);
-                }
+            if (data) {
+                document.getElementById('modalTitle').innerText = title;
+                document.getElementById('modalAuthor').innerText = author;
+                document.getElementById('modalStars').innerText = data.stars;
+                document.getElementById('modalQuote').innerText = `"${data.quote}"`;
+                document.getElementById('modalText').innerText = data.text;
+                
+                modal.style.display = "block";
+                document.body.style.overflow = "hidden";
+            } else {
+                console.log("Não encontrei a review para:", title);
             }
         });
     });
-
     // Fechar a modal no X
     if (closeModal) {
         closeModal.onclick = () => {
