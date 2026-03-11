@@ -1199,52 +1199,56 @@ body::after {
     align-items: stretch; /* Estica os itens para terem a mesma altura na linha */
 }
 
-/* Padroniza o tamanho do cartão do livro */
+/* 1. Padroniza o tamanho do cartão */
 .book-card {
     background: var(--warm-white);
     border: 1px solid var(--border);
     border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    height: 650px; /* Aumentei um pouco para dar ar às capas */
     overflow: hidden;
-    transition: box-shadow 0.3s ease; /* Mantém apenas uma sombra suave na transição */
-    
-    /* Define uma altura padrão para todos os cartões */
-    height: 500px; /* Ajusta este valor conforme necessário */
-    
-    /* Usa Flexbox para organizar o conteúdo internamente */
-    display: flex;
-    flex-direction: column;
+    transition: box-shadow 0.3s ease;
 }
 
-/* Remove qualquer transformação no hover que tenha ficado */
-.book-card:hover {
-    transform: none !important;
-    box-shadow: 0 10px 30px rgba(28, 43, 58, 0.1);
+/* 2. Ajusta o contentor da imagem para não cortar */
+.book-card-header {
+    height: 320px; /* Define uma altura fixa para a zona da imagem */
+    overflow: hidden;
+    background-color: var(--parchment); /* Fundo caso a imagem falhe */
 }
 
-/* Ajusta o corpo do cartão para ocupar o espaço disponível */
+.book-card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* IMPORTANTE: mostra a capa inteira sem cortar */
+    padding: 1rem; /* Dá um pequeno respiro à volta da capa */
+    transition: transform 0.5s ease;
+}
+
+/* 3. Garante que o corpo ocupa o resto do espaço */
 .book-card-body {
-    padding: 1.5rem;
+    padding: 1.2rem;
     display: flex;
     flex-direction: column;
-    flex-grow: 1; /* Faz o corpo crescer para preencher a altura do cartão */
+    flex-grow: 1;
+    text-align: center;
 }
 
-/* Garante que o resumo (excerpt) não quebre o layout se for muito longo */
+/* 4. Limita o resumo para 2 ou 3 linhas para não empurrar tudo */
 .book-card-excerpt {
     font-size: 0.9rem;
-    color: var(--text-muted);
-    margin-bottom: 1.5rem;
-    
-    /* Limita o número de linhas visíveis no resumo (opcional, mas recomendado) */
+    line-height: 1.5;
+    margin-bottom: 1rem;
     display: -webkit-box;
-    -webkit-line-clamp: 3; /* Mostra apenas 3 linhas */
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
 }
 
-/* Empurra a zona dos botões para o fundo do cartão */
+/* 5. Botão sempre no fundo */
 .book-card-actions {
-    margin-top: auto; /* Truque do Flexbox para empurrar para o fundo */
-    padding-top: 1rem;
+    margin-top: auto;
+    padding-bottom: 0.5rem;
 }
