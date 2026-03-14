@@ -90,8 +90,9 @@ No final, apesar de toda a intensidade, tristeza, vingança e raiva que atravess
         },
         "O Namorado": {
             stars: "★★★★★",
-            quote: "Nem todos os monstros parecem assustadores - alguns parecem perfeitos.",
-            text: "O Namorado”, de Freida McFadden, é um thriller envolvente que prende o leitor desde a primeira página. A autora faz-nos questionar até onde se é capaz de ir por amor e o lado obscuro de cada personagem. Com capítulos curtos e um ritmo rápido, é daqueles livros que se lê quase de uma assentada. Como já é habitual nos thrillers de Freida McFadden, a história está cheia de reviravoltas e momentos que fazem o leitor repensar tudo o que achava que sabia. Um thriller viciante, cheio de tensão e mistério, perfeito para quem gosta de histórias onde nada é o que parece."
+            quote: `Nem todos os monstros parecem assustadores - alguns parecem perfeitos.",
+            text: "O Namorado”, de Freida McFadden, é um thriller envolvente que prende o leitor desde a primeira página. A autora faz-nos questionar até onde se é capaz de ir por amor e o lado obscuro de cada personagem. Com capítulos curtos e um ritmo rápido, é daqueles livros que se lê quase de uma assentada. Como já é habitual nos thrillers de Freida McFadden, a história está cheia de reviravoltas e momentos que fazem o leitor repensar tudo o que achava que sabia. Um thriller viciante, cheio de tensão e mistério, perfeito para quem gosta de histórias onde nada é o que parece.`,
+            signedBy: "Sara Rebeca"
         },
     };
 
