@@ -80,9 +80,21 @@ Começamos a história curiosos sobre a quantidade de casamentos, apenas para pe
             text: "O clássico definitivo de Jane Austen. Uma dança elegante de palavras, costumes e a descoberta de que o primeiro julgamento raramente é o correto."
         },
         "O Comboio dos Orfãos": {
-            stars: "★★★★★",
-            quote: "Carregamos o nosso passado no coração, não apenas na bagagem.",
-            text: "Uma narrativa comovente que entrelaça gerações, revelando um pedaço esquecido da história americana e a força da amizade improvável."
+    stars: "★★★★★",
+    quote: "Há histórias que começam com perda, e passam a vida inteira à procura de um lugar para chamar casa.",
+    text: `O livro inesquecível de “O Comboio dos Órfãos” de Christina Baker Kline. 
+
+Há livros que escolhemos ler… e há livros que, de alguma forma, acabam por nos escolher e por nos marcar mais do que estávamos à espera. O Comboio dos Órfãos foi exatamente isso para mim.
+
+Com uma escrita simples e envolvente, este leva-nos a descobrir um capítulo pouco conhecido da história: o das crianças órfãs que eram enviadas de comboio em busca de novas famílias e de uma oportunidade de vida melhor, em busca de amor e cuidado. Baseado em testemunhos reais da verdadeira história por detrás da vida destas tantas crianças. Ao longo da leitura, é impossível não sentir um aperto no coração ao perceber a dureza dessa realidade, especialmente por envolver crianças muitas vezes tratadas de forma desumana.
+
+A narrativa alterna entre o passado e o presente, criando um paralelismo interessante com uma jovem da atualidade que, de forma inesperada, acaba por se cruzar com a vida da protagonista. À medida que as memórias vão sendo partilhadas, percebemos que esta não é apenas uma história dura, é também uma história de coragem, resiliência e esperança, com partes muito agoniantes que nos fazem sentir um misto de emoções.
+
+Apesar dos momentos emocionalmente pesados, é um livro de leitura fluida, daqueles que nos fazem querer continuar sempre mais um capítulo. Foi também um livro que me fez sentir muita compaixão pela personagem principal e pelo caminho difícil que teve de percorrer até conseguir encontrar, finalmente, alguma felicidade.
+
+Um drama histórico marcante, que nos faz refletir sobre o passado e sobre a incrível capacidade humana de resistir, mesmo quando a vida parece tirar quase tudo.`,
+    signedBy: "Nádia Filipa"
+},
         },
         "Dança do Mar Estrelado": {
             stars: "★★★★★",
