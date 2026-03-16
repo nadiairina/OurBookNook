@@ -56,7 +56,7 @@ No final, apesar de toda a intensidade, tristeza, vingança e raiva que atravess
         "Os Sete Maridos De Evelyn Hugo": {
             stars: "★★★★★",
             quote: "As pessoas pensam que a intimidade tem que ver com sexo. Mas a intimidade tem a ver com a verdade. No momento em que percebemos que podemos contar a alguém a nossa verdade, quando podemos mostrar-nos a essa pessoa, quando nos despimos de tudo à frente dela e a resposta é: «Comigo, estás segura.» Isso é intimidade.",
-            text: `Os Sete mMridos de Evelyn Hugo é um livro sobre glamour, amor e mistério. 
+            text: `Os Sete Maridos de Evelyn Hugo é um livro sobre glamour, amor e mistério. 
 
 Passa-se na época dourada de Hollywood, em 1950, e conta-nos detalhadamente a história da atriz cubana, Evelyn Hugo, desde a sua infância, carreira, a sua ascensão ao estrelato e a sua vida amorosa.
 
