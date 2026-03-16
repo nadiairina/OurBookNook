@@ -94,7 +94,6 @@ Apesar dos momentos emocionalmente pesados, é um livro de leitura fluida, daque
 
 Um drama histórico marcante, que nos faz refletir sobre o passado e sobre a incrível capacidade humana de resistir, mesmo quando a vida parece tirar quase tudo.`,
     signedBy: "Nádia Filipa"
-},
         },
         "Dança do Mar Estrelado": {
             stars: "★★★★★",
