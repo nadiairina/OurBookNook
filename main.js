@@ -55,8 +55,19 @@ No final, apesar de toda a intensidade, tristeza, vingança e raiva que atravess
         },
         "Os Sete Maridos De Evelyn Hugo": {
             stars: "★★★★★",
-            quote: "Eles são apenas maridos. Eu sou a Evelyn Hugo.",
-            text: "Um mergulho fascinante na Hollywood clássica, onde a verdade é muito mais complexa e dolorosa do que as manchetes dos tablóides sugerem."
+            quote: "As pessoas pensam que a intimidade tem que ver com sexo. Mas a intimidade tem a ver com a verdade. No momento em que percebemos que podemos contar a alguém a nossa verdade, quando podemos mostrar-nos a essa pessoa, quando nos despimos de tudo à frente dela e a resposta é: «Comigo, estás segura.» Isso é intimidade.",
+            text: `Os sete maridos de Evelyn Hugo é um livro sobre glamour, amor e mistério. 
+
+Passa-se na época dourada de Hollywood, em 1950, e conta-nos detalhadamente a história da atriz cubana, Evelyn Hugo, desde a sua infância, carreira, a sua ascensão ao estrelato e a sua vida amorosa.
+
+Taylor Jenkins Reid, é uma escritora muito visual, tendo trabalhado numa produtora cinematográfica, tem o dom de fazer com que o leitor consiga visualizar todas as cenas na sua cabeça, é por esta grande qualidade que gosto imenso de todos os seus livros, consigo “ver um filme” com imensa facilidade e de forma intensa, enquanto leio. 
+
+Cheio de glamour de Hollywood, drama, mistério e plot twists, Taylor Jenkins Reid detalha com pormenores o mundo do cinema americano, respondendo às curiosidades que a maior parte das pessoas tem em relação à indústria. 
+
+Começamos a história curiosos sobre a quantidade de casamentos, apenas para percebermos que isto é uma história de sobrevivência e que as características manipuladoras e os planos engenhosos de Evelyn são essenciais para a sua sobrevivência. No início, até pode parecer uma história “superficial” porque é sobre o showbusiness americano (acredito que era esse o objetivo da autora), mas conta-nos uma história profunda de resiliência por parte de quase todas as personagens. Apercebem-nos rapidamente que este livro é uma história de amor e questionamo-nos se poderá sobreviver a um “inimigo” comum. 
+
+É daqueles livros que se devora em poucos dias e que nos deixa com um sentimento amargo por sabermos que nunca vamos ter a mesma experiência de o ler de novo. Confesso que este ficou dos meus livros preferidos, lê-lo foi das melhores experiências que tive, e sempre que me pedem uma recomendação, é este o livro que escolho. `,
+            signedBy: "Nadia Irina"
         },
         "Amanhecer na Ceifa": {
             stars: "★★★★☆",
