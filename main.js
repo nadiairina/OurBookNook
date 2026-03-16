@@ -94,7 +94,7 @@ No final, apesar de toda a intensidade, tristeza, vingança e raiva que atravess
     text: `O Namorado”, de Freida McFadden, é um thriller envolvente que prende o leitor desde a primeira página. A autora faz-nos questionar até onde se é capaz de ir por amor e o lado obscuro de cada personagem. Com capítulos curtos e um ritmo rápido, é daqueles livros que se lê quase de uma assentada. Como já é habitual nos thrillers de Freida McFadden, a história está cheia de reviravoltas e momentos que fazem o leitor repensar tudo o que achava que sabia. Um thriller viciante, cheio de tensão e mistério, perfeito para quem gosta de histórias onde nada é o que parece.`,
     signedBy: "Sara Rebeca"
 },
-        "Better than the Movies": {
+        "Isto Não Acontece nos Filmes": {
     stars: "★★★★★",
     quote: `Não quero ser apenas mais uma parte da tua história… quero ser o teu final.`,
     text: `Este é um daqueles livros que nos lembram porque é que gostamos tanto do género Romance. “Isto Não Acontece nos Filmes”, de Lynn Painter, é exatamente o tipo de leitura leve, divertida, com questões emocionais mas reconfortante.
