@@ -70,7 +70,7 @@ Começamos a história curiosos sobre a quantidade de casamentos, apenas para pe
             signedBy: "Nadia Irina"
         },
         "Amanhecer na Ceifa": {
-            stars: "★★★★☆",
+            stars: "★★★★★",
             quote: "Onde começa a humanidade e termina a sobrevivência?",
             text: "Suzanne Collins regressa a Panem com uma prequela que desafia a nossa percepção sobre o poder e a natureza do mal."
         },
@@ -79,7 +79,7 @@ Começamos a história curiosos sobre a quantidade de casamentos, apenas para pe
             quote: "Só o amor mais profundo me levaria ao matrimónio.",
             text: "O clássico definitivo de Jane Austen. Uma dança elegante de palavras, costumes e a descoberta de que o primeiro julgamento raramente é o correto."
         },
-        "O comboio dos Orfãos": {
+        "O Comboio dos Orfãos": {
             stars: "★★★★★",
             quote: "Carregamos o nosso passado no coração, não apenas na bagagem.",
             text: "Uma narrativa comovente que entrelaça gerações, revelando um pedaço esquecido da história americana e a força da amizade improvável."
