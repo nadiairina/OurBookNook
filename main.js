@@ -120,7 +120,23 @@ Quando Zade se depara com Adeline, desenvolve de imediato uma obsessão por ela.
 
 Esta é uma história repleta de desejo, obsessão e erotismo, o que a torna tão irresistível para os leitores de dark romance.`,
             signedBy: "Nádia Filipa"
-        }
+        },
+        "Dança do Mar Estrelado": {
+    stars: "★★☆☆☆",
+    quote: "É verdade que sempre amei o mar. Mas mentiria se dissesse que a sua natureza intrusiva não me aterrorizava.",
+    text: `A “Dança do Mar Estrelado” tem um conceito e uma arte de capa que me chamaram a atenção. Confesso que não adoro ler ficção, pois sinto que tenho dificuldade em acertar no subgénero que me agrada, arrisquei com este e, mais uma vez, a escolha foi ao lado.
+
+A história acompanha Lila, uma bailarina que, após cometer um erro no palco e cair, perde as estribeiras. Devido à pressão constante que sempre sofreu, ela acaba por descarregar na mãe de forma violenta. Como consequência, os pais enviam-na para a Ilha Luna para viver com a tia. A ilha é mágica, repleta de mitos sobre a existência de anjos.
+
+O conceito é interessante, sendo baseado no mito de Hades e Perséfone. Por isso, a história dá a ideia de ser um romance, mas Damien mal aparece e, quando surge, as cenas são pouco exploradas. O foco narrativo reside quase inteiramente nas feridas internas de Lila. Grande parte do livro resume-se à protagonista a tentar perceber o que se passa à sua volta, respondendo às próprias dúvidas sozinha, ninguém lhe dá respostas, ela simplesmente tem "palpites" que, por acaso, estão sempre certos.
+
+Não existe um desenvolvimento completo entre o par romântico. A relação evolui muito rápido, o que me impediu de criar uma ligação com o casal. A evolução de Lila pareceu-me repentina. Num momento ela é extremamente insegura e, logo a seguir, transforma-se numa mulher decidida. Essa mudança soou "do nada", sem um processo de amadurecimento credível.
+
+A escrita da autora foca-se nos pontos errados. Há um detalhismo excessivo em roupas, cheiros e cenários, enquanto as cenas de ação são despachadas rapidamente. Isso torna a leitura aborrecida nos momentos de transição e frustrante nos momentos de clímax, que passam num fôlego.
+
+No geral, a história e a caracterização das personagens pareceram-me bastante forçadas.`,
+    signedBy: "Nadia Irina"
+},
     };
 
     // ── CONFIGURAÇÃO DE ASSINATURAS PERSONALIZADAS ──
