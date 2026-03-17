@@ -1277,3 +1277,8 @@ body::after {
     color: var(--gold);
     display: block;
 }
+#modalText {
+    white-space: pre-line; /* Isto faz com que o navegador respeite as quebras de linha do teu JS */
+    line-height: 1.6;      /* Dá um espaçamento extra entre linhas para facilitar a leitura */
+    text-align: justify;   /* Opcional: deixa o texto alinhado dos dois lados */
+}
