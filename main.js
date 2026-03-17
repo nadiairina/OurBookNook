@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "O Monte dos Vendavais": {
             stars: "★★★★★",
             quote: "Ele é mais eu do que eu própria. Seja lá do que for que as nossas almas são feitas, a minha e a dele são feitas do mesmo.” - Catherine Earnshaw",
-            text: `Um clássico intenso que não pede desculpa: “Wuthering Hights”.
+            text: `Um clássico intenso que não pede desculpa: “Wuthering Heights”.
 
 Há livros que gostamos… e há livros que nos marcam. O Monte dos Vendavais, de Emily Brontë pertence claramente à segunda categoria. Publicado em 1847, este clássico da literatura inglesa continua a ser uma leitura poderosa, sombria e emocionalmente intensa, daquelas que ficam connosco muito depois de virarmos a última página.
 
@@ -66,23 +66,13 @@ Cheio de glamour de Hollywood, drama, mistério e plot twists, Taylor Jenkins Re
 
 Começamos a história curiosos sobre a quantidade de casamentos, apenas para percebermos que isto é uma história de sobrevivência e que as características manipuladoras e os planos engenhosos de Evelyn são essenciais para a sua sobrevivência. No início, até pode parecer uma história “superficial” porque é sobre o showbusiness americano (acredito que era esse o objetivo da autora), mas conta-nos uma história profunda de resiliência por parte de quase todas as personagens. Apercebem-nos rapidamente que este livro é uma história de amor e questionamo-nos se poderá sobreviver a um “inimigo” comum. 
 
-É daqueles livros que se devora em poucos dias e que nos deixa com um sentimento amargo por sabermos que nunca vamos ter a mesma experiência de o ler de novo. Confesso que este ficou dos meus livros preferidos, lê-lo foi das melhores experiências que tive, e sempre que me pedem uma recomendação, é este o livro que escolho. `,
+É daqueles livros que se devora em poucos dias e que nos deixa com um sentimento amargo por sabermos que nunca vamos ter a mesma experiência de o ler de novo. Confesso que este ficou dos meus livros preferidos, lê-lo foi das melhores experiências que tive, e sempre que me pedem uma recomendação, é este o livro que escolho.`,
             signedBy: "Nadia Irina"
         },
-        "Amanhecer na Ceifa": {
-            stars: "★★★★★",
-            quote: "Onde começa a humanidade e termina a sobrevivência?",
-            text: "Suzanne Collins regressa a Panem com uma prequela que desafia a nossa percepção sobre o poder e a natureza do mal."
-        },
-        "Orgulho e Preconceito": {
-            stars: "★★★★★",
-            quote: "Só o amor mais profundo me levaria ao matrimónio.",
-            text: "O clássico definitivo de Jane Austen. Uma dança elegante de palavras, costumes e a descoberta de que o primeiro julgamento raramente é o correto."
-        },
         "O Comboio dos Orfãos": {
-    stars: "★★★★★",
-    quote: "Há histórias que começam com perda, e passam a vida inteira à procura de um lugar para chamar casa.",
-    text: `O livro inesquecível de “O Comboio dos Órfãos” de Christina Baker Kline. 
+            stars: "★★★★★",
+            quote: "Há histórias que começam com perda, e passam a vida inteira à procura de um lugar para chamar casa.",
+            text: `O livro inesquecível de “O Comboio dos Órfãos” de Christina Baker Kline. 
 
 Há livros que escolhemos ler… e há livros que, de alguma forma, acabam por nos escolher e por nos marcar mais do que estávamos à espera. O Comboio dos Órfãos foi exatamente isso para mim.
 
@@ -93,59 +83,51 @@ A narrativa alterna entre o passado e o presente, criando um paralelismo interes
 Apesar dos momentos emocionalmente pesados, é um livro de leitura fluida, daqueles que nos fazem querer continuar sempre mais um capítulo. Foi também um livro que me fez sentir muita compaixão pela personagem principal e pelo caminho difícil que teve de percorrer até conseguir encontrar, finalmente, alguma felicidade.
 
 Um drama histórico marcante, que nos faz refletir sobre o passado e sobre a incrível capacidade humana de resistir, mesmo quando a vida parece tirar quase tudo.`,
-    signedBy: "Nádia Filipa"
-        },
-        "Dança do Mar Estrelado": {
-            stars: "★★★★★",
-            quote: "A magia não está no oceano, mas no que ele nos faz sentir.",
-            text: "Um romance etéreo que combina a brisa marítima com segredos de família. Uma leitura que se sente como um mergulho em águas cristalinas sob o luar."
-        },
-        "A Criada": {
-            stars: "★★★★☆",
-            quote: "Ninguém sabe o que acontece atrás de portas fechadas.",
-            text: "Um thriller psicológico viciante e claustrofóbico. Freida McFadden constrói uma teia de mentiras que nos mantém a adivinhar até à última página."
-        },
-        "Twisted Lies": {
-            stars: "★★★★★",
-            quote: "Faria qualquer coisa para te manter, mesmo que isso significasse queimar o mundo.",
-            text: "O desfecho viciante da série Twisted. Uma história de segredos, perigo e um amor possessivo que nos prende do início ao fim."
+            signedBy: "Nádia Filipa"
         },
         "O Namorado": {
-    stars: "★★★★★",
-    quote: `Nem todos os monstros parecem assustadores - alguns parecem perfeitos.`,
-    text: `O Namorado”, de Freida McFadden, é um thriller envolvente que prende o leitor desde a primeira página. A autora faz-nos questionar até onde se é capaz de ir por amor e o lado obscuro de cada personagem. 
-    
-    Com capítulos curtos e um ritmo rápido, é daqueles livros que se lê quase de uma assentada. Como já é habitual nos thrillers de Freida McFadden, a história está cheia de reviravoltas e momentos que fazem o leitor repensar tudo o que achava que sabia. 
-    
-    Um thriller viciante, cheio de tensão e mistério, perfeito para quem gosta de histórias onde nada é o que parece.`,
-    signedBy: "Sara Rebeca"
-},
+            stars: "★★★★★",
+            quote: `Nem todos os monstros parecem assustadores - alguns parecem perfeitos.`,
+            text: `O Namorado”, de Freida McFadden, é um thriller envolvente que prende o leitor desde a primeira página. A autora faz-nos questionar até onde se é capaz de ir por amor e o lado obscuro de cada personagem. 
+
+Com capítulos curtos e um ritmo rápido, é daqueles livros que se lê quase de uma assentada. Como já é habitual nos thrillers de Freida McFadden, a história está cheia de reviravoltas e momentos que fazem o leitor repensar tudo o que achava que sabia. 
+
+Um thriller viciante, cheio de tensão e mistério, perfeito para quem gosta de histórias onde nada é o que parece.`,
+            signedBy: "Sara Rebeca"
+        },
         "Isto Não Acontece nos Filmes": {
-    stars: "★★★★★",
-    quote: `Não quero ser apenas mais uma parte da tua história… quero ser o teu final.`,
-    text: `Este é um daqueles livros que nos lembram porque é que gostamos tanto do género Romance. “Isto Não Acontece nos Filmes”, de Lynn Painter, é exatamente o tipo de leitura leve, divertida, com questões emocionais mas reconfortante.
+            stars: "★★★★★",
+            quote: `Não quero ser apenas mais uma parte da tua história… quero ser o teu final.`,
+            text: `Este é um daqueles livros que nos lembram porque é que gostamos tanto do género Romance. “Isto Não Acontece nos Filmes”, de Lynn Painter, é exatamente o tipo de leitura leve, divertida, com questões emocionais mas reconfortante.
 
 A história acompanha uma protagonista completamente apaixonada por filmes românticos e por todas as ideias de amor que eles nos fazem acreditar. Entre grandes referências a clássicos do cinema que todos conhecemos e momentos que parecem saídos diretamente de um filme, o livro brinca muito bem com o contraste entre aquilo que imaginamos que o amor deveria ser e aquilo que ele realmente acaba por ser. Com uma dinâmica enemies to lovers cheia de química crescente, a narrativa prende e flui de uma forma que nos faz virar páginas quase sem dar por isso.
 
-Apesar de ter aquele toque de cliché que reconhecemos neste género, a autora consegue dar-lhe um outro ar, mais fresco e juvenil . Com atenção aos detalhes de forma inteligente, seja na construção das personagens, nas suas inseguranças e traumas, ou na forma como o romance se vai desenvolvendo. Não é uma história lenta, o que torna a leitura ainda mais fluida e envolvente, e as personagens são descritas de forma tão carismática que é fácil imaginá-las como se estivéssemos mesmo a ver um filme.
+Apesar de ter aquele toque de cliché que reconhecemos neste género, a autora consegue dar-lhe um outro ar, mais fresco e juvenil. Com atenção aos detalhes de forma inteligente, seja na construção das personagens, nas suas inseguranças e traumas, ou na forma como o romance se vai desenvolvendo. Não é uma história lenta, o que torna a leitura ainda mais fluida e envolvente, e as personagens são descritas de forma tão carismática que é fácil imaginá-las como se estivéssemos mesmo a ver um filme.
 
 No fundo, este é um livro sobre expectativas, sobre crescer e sobre perceber que, por vezes, o amor que achamos que queremos não é exatamente aquele de que precisamos. E muitas vezes ele pode estar muito mais perto do que imaginamos.
 
-Uma leitura rápida, doce, jovem e muito confortável, daquelas perfeitas para quando só queremos uma história romântica que nos faça sorrir. `,
-    signedBy: "Nádia Filipa"
-},
+Uma leitura rápida, doce, jovem e muito confortável, daquelas perfeitas para quando só queremos uma história romântica que nos faça sorrir.`,
+            signedBy: "Nádia Filipa"
+        },
         "A Sombra de Adeline": {
-    stars: "★★★★★",
-    quote: ".",
-    text: `O livro Haunting Adeline, de H. D. Carlton, é sem sombra de dúvida o livro mais erótico e sombrio que já li até aos dias de hoje. 
+            stars: "★★★★★",
+            quote: "O manipulador manipula sempre, mesmo quando pensa que está a ser manipulado.",
+            text: `O livro Haunting Adeline, de H. D. Carlton, é sem sombra de dúvida o livro mais erótico e sombrio que já li até aos dias de hoje. 
 
 Este dark romance intenso e controverso acompanha Adeline, uma jovem escritora que acaba de herdar a antiga casa de família - uma mansão isolada, cheia de história e mistério.
 
 Quando Zade se depara com Adeline, desenvolve de imediato uma obsessão por ela. Zade então decide que ela será sua, quer ela queira, quer não. Adeline começa a sentir desejos que nunca imaginou explorar, levando-a a questionar os próprios limites, vontades e fantasias.
 
 Esta é uma história repleta de desejo, obsessão e erotismo, o que a torna tão irresistível para os leitores de dark romance.`,
-    signedBy: "Sara Rebeca"
-},
+            signedBy: "Nádia Filipa"
+        }
+    };
+
+    // ── CONFIGURAÇÃO DE ASSINATURAS PERSONALIZADAS ──
+    const personalSignatures = {
+        "Nádia Filipa": "Com amor, até ao próximo capítulo.<br><strong style='font-size: 1.2rem; color: var(--navy);'>Nádia Filipa</strong>",
+        "Nadia Irina": "Com carinho, do meu lado da estante.<br><strong style='font-size: 1.2rem; color: var(--navy);'>Nadia Irina</strong>",
+        "Sara Rebeca": "Com carinho,<br><strong style='font-size: 1.2rem; color: var(--navy);'>Sara Rebeca</strong>"
     };
 
     const fecharModal = () => {
@@ -172,16 +154,17 @@ Esta é uma história repleta de desejo, obsessão e erotismo, o que a torna tã
                 document.getElementById('modalStars').innerText = data.stars;
                 document.getElementById('modalQuote').innerText = `"${data.quote}"`;
                 
-                // --- LÓGICA DA ASSINATURA NA JANELA ---
-                let reviewFinal = data.text;
+                // Lógica de texto e assinatura personalizada
+                let reviewHtml = data.text;
                 
-                // Se houver uma assinatura definida, adicionamos ao texto
-                if (data.signedBy) {
-                    reviewFinal += `<br><br><div style="text-align: right; font-style: italic; color: var(--gold); font-family: var(--font-display);">Com carinho, <br><strong style="font-size: 1.2rem; color: var(--navy);">${data.signedBy}</strong></div>`;
+                if (data.signedBy && personalSignatures[data.signedBy]) {
+                    reviewHtml += `<br><br><div style="text-align: right; font-style: italic; color: var(--gold); font-family: var(--font-display);">
+                        ${personalSignatures[data.signedBy]}
+                    </div>`;
                 }
 
-                // Usamos innerHTML para as quebras de linha (<br>) e o estilo funcionarem
-                document.getElementById('modalText').innerHTML = reviewFinal;
+                // Usamos innerHTML para os parágrafos e assinaturas funcionarem
+                document.getElementById('modalText').innerHTML = reviewHtml;
                 
                 modal.style.display = "block";
                 document.body.style.overflow = "hidden";
@@ -189,19 +172,13 @@ Esta é uma história repleta de desejo, obsessão e erotismo, o que a torna tã
         });
     });
 
-    if (closeModal) {
-        closeModal.onclick = fecharModal;
-    }
+    if (closeModal) closeModal.onclick = fecharModal;
 
     window.onclick = (event) => {
-        if (event.target == modal) {
-            fecharModal();
-        }
+        if (event.target == modal) fecharModal();
     };
 
     document.addEventListener('keydown', (event) => {
-        if (event.key === "Escape") {
-            fecharModal();
-        }
+        if (event.key === "Escape") fecharModal();
     });
 });
