@@ -119,7 +119,7 @@ Este dark romance intenso e controverso acompanha Adeline, uma jovem escritora q
 Quando Zade se depara com Adeline, desenvolve de imediato uma obsessão por ela. Zade então decide que ela será sua, quer ela queira, quer não. Adeline começa a sentir desejos que nunca imaginou explorar, levando-a a questionar os próprios limites, vontades e fantasias.
 
 Esta é uma história repleta de desejo, obsessão e erotismo, o que a torna tão irresistível para os leitores de dark romance.`,
-            signedBy: "Nádia Filipa"
+            signedBy: "Sara Rebeca"
         },
         "Dança do Mar Estrelado": {
     stars: "★★☆☆☆",
