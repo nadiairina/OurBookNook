@@ -137,6 +137,47 @@ A escrita da autora foca-se nos pontos errados. Há um detalhismo excessivo em r
 No geral, a história e a caracterização das personagens pareceram-me bastante forçadas.`,
     signedBy: "Nadia Irina"
 },
+        "A Dor que Fica ": {
+    stars: "★★★★☆",
+    quote: "Adoro quando te magoas, querida, mas só quando sou eu a infligir a dor.",
+    text: `A Dor que Fica”, da autoria de H. D. Carlton, é uma história sobre obsessão, trauma, dor, amor sombrio e paixão. 
+
+Sawyer foge de monstros do seu passado, que a atormentam, obrigando-a a isolar-se do mundo. Quando ela conhece Enzo, um italiano charmoso e perigoso, uma atração entre ambos surge logo de imediato, fazendo com que não se consigam resistir um ao outro. 
+
+No entanto, Sawyer vê-se obrigada a mentir e enganar Enzo para continuar a sobreviver e ele? Ele quer vingança por ter sido enganado por uma bonita ladra. 
+
+Os dois vêm-se presos um ao outro quando naufragam para uma ilha remota. Na ilha do corvo, apenas habita uma alma, o faroleiro estranho, que lhes dá abrigo. No entanto, ele esconde segredos obscuros e intenções cruéis. 
+
+Feridas irão reabrir, sentimentos obscuros emergirão e uma obsessão começará a formar-se. 
+
+Um dark romance tão intenso que nos deixa com água na boca mas também com uma tristeza no coração.`,
+    signedBy: "Sara Rebeca"
+},
+
+    "A Criada ": {
+    stars: "★★★★☆",
+    quote: "Nem tudo o que parece seguro é, de facto, um refúgio",
+    text: `Há livros que nos devoram. A trilogia A Criada é claramente deste tipo. Com uma escrita viciante, envolvente e cheia de tensão, Freida McFadden consegue prender-nos desde a primeira página até ao último suspiro de cada capítulo, daqueles que dizemos “só mais um” e, de repente, já são 3 da manhã.
+
+“A Criada”
+O primeiro livro é, sem dúvida, o grande destaque da trilogia. Original, inesperado e com um ritmo que não abranda, apresenta-nos uma história que parece simples… até deixar de o ser. O verdadeiro brilho está na forma como tudo se transforma, levando-nos a questionar absolutamente tudo e todos. O plot twist final não é apenas surpreendente é daqueles que nos obriga a voltar atrás mentalmente e perceber o quão enganados estivemos, faz nos questionar todos os pequenos detalhes que lemos ao longo da história e como não conseguimos perceber antecipadamente a verdade.
+Frase marcante representativa.`,
+    signedBy: "Nádia Filipa"
+},
+        "O Segredo da Criada": {
+    stars: "★★★☆☆",
+    quote: "Às vezes, os maiores segredos são aqueles que escolhemos não ver",
+    text: `O segundo livro mantém o suspense característico da autora, com aquele ambiente tenso e desconfortável típico de que o perigo está á espreita que já esperamos e adoramos. No entanto, comparativamente ao primeiro, a ligação emocional à história e às personagens não é tão forte. Continua a ser uma leitura envolvente, mas falta-lhe aquele impacto arrebatador que nos deixa completamente rendidos. Ainda assim, a escrita continua afiada e impossível de largar.`,
+    signedBy: "Nádia Filipa"
+},
+        "A Criada Está a Ver": {
+    stars: "★★★★☆",
+    quote: "Há olhares que dizem mais do que qualquer verdade alguma vez dita",
+    text: `O terceiro livro recupera parte da intensidade que sentimos no início da trilogia. Mais cativante do que o segundo, traz uma evolução interessante à história e aprofunda relações que já vinham a ser construídas especialmente aquelas que tantos leitores já acompanhavam com carinho. Há mais emoção, mais envolvimento, e uma sensação mais familiar ao redor de toda a história, com personagens que já nos parecem próximos e que nos afeiçoamos permite uma dinâmica crescente e amarga ao mesmo tempo por nos fazer duvidar “de quem já tão bem conhecemos” . Ainda assim, não supera a genialidade do primeiro. No geral, esta trilogia é uma experiência compulsiva e cheia de reviravoltas, perfeita para quem adora thrillers psicológicos que brincam com a nossa perceção da realidade. Mesmo com algumas oscilações ao longo dos livros, o talento de Freida McFadden para criar histórias viciantes é inegável. E no fim, fica aquela sensação agridoce: nenhum livro superou o primeiro… mas todos nos deram uma razão para continuar a virar páginas sem parar.`,
+    signedBy: "Nádia Filipa"
+},
+        
+
     };
 
     // ── CONFIGURAÇÃO DE ASSINATURAS PERSONALIZADAS ──
