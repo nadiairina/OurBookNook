@@ -156,7 +156,7 @@ Um dark romance tão intenso que nos deixa com água na boca mas também com uma
 
     "A Criada": {
     stars: "★★★★☆",
-    quote: "Nem tudo o que parece seguro é, de facto, um refúgio",
+    quote: "Nem tudo o que parece seguro é, de facto, um refúgio.",
     text: `Há livros que nos devoram. A trilogia A Criada é claramente deste tipo. Com uma escrita viciante, envolvente e cheia de tensão, Freida McFadden consegue prender-nos desde a primeira página até ao último suspiro de cada capítulo, daqueles que dizemos “só mais um” e, de repente, já são 3 da manhã.
 
 “A Criada”
@@ -165,19 +165,19 @@ O primeiro livro é, sem dúvida, o grande destaque da trilogia. Original, inesp
 },
         "O Segredo da Criada": {
     stars: "★★★☆☆",
-    quote: "Às vezes, os maiores segredos são aqueles que escolhemos não ver",
+    quote: "Às vezes, os maiores segredos são aqueles que escolhemos não ver.",
     text: `O segundo livro mantém o suspense característico da autora, com aquele ambiente tenso e desconfortável típico de que o perigo está á espreita que já esperamos e adoramos. No entanto, comparativamente ao primeiro, a ligação emocional à história e às personagens não é tão forte. Continua a ser uma leitura envolvente, mas falta-lhe aquele impacto arrebatador que nos deixa completamente rendidos. Ainda assim, a escrita continua afiada e impossível de largar.`,
     signedBy: "Nádia Filipa"
 },
         "A Criada Está a Ver": {
     stars: "★★★★☆",
-    quote: "Há olhares que dizem mais do que qualquer verdade alguma vez dita",
+    quote: "Há olhares que dizem mais do que qualquer verdade alguma vez dita.",
     text: `O terceiro livro recupera parte da intensidade que sentimos no início da trilogia. Mais cativante do que o segundo, traz uma evolução interessante à história e aprofunda relações que já vinham a ser construídas especialmente aquelas que tantos leitores já acompanhavam com carinho. Há mais emoção, mais envolvimento, e uma sensação mais familiar ao redor de toda a história, com personagens que já nos parecem próximos e que nos afeiçoamos permite uma dinâmica crescente e amarga ao mesmo tempo por nos fazer duvidar “de quem já tão bem conhecemos” . Ainda assim, não supera a genialidade do primeiro. No geral, esta trilogia é uma experiência compulsiva e cheia de reviravoltas, perfeita para quem adora thrillers psicológicos que brincam com a nossa perceção da realidade. Mesmo com algumas oscilações ao longo dos livros, o talento de Freida McFadden para criar histórias viciantes é inegável. E no fim, fica aquela sensação agridoce: nenhum livro superou o primeiro… mas todos nos deram uma razão para continuar a virar páginas sem parar.`,
     signedBy: "Nádia Filipa"
 },
         "Pequenas Mentiras Inocentes": {
     stars: "★★★★☆",
-    quote: "Às vezes, as mentiras mais perigosas são aquelas que aprendemos a contar como se fossem tradições",
+    quote: "Às vezes, as mentiras mais perigosas são aquelas que aprendemos a contar como se fossem tradições.",
     text: `Se o assunto for livros que nos envolvem como um segredo sussurrado ao ouvido. “Pequenas Mentiras Inocentes”, de Jennifer Lynn Barnes, é exatamente a escolha perfeita: uma teia elegante de mistério, luxo e verdades escondidas sob camadas de perfeição.
 
 Com uma escrita ágil e fluída, este é daqueles livros que se lê quase sem dar por isso. As páginas passam rápido, sem momentos arrastados, enquanto a história se vai apertando lentamente como um laço invisível que nos prende cada vez mais. Não é um thriller pesado ou psicológico, mas tem aquele toque viciante.
