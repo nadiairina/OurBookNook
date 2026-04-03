@@ -206,28 +206,11 @@ Na minha opinião, este thriller deixou muito a desejar. A história até cativa
     stars: "★★★★☆",
     quote: "Algumas noites, quando ele passa pela porta dela, tem de sussurrar a si mesmo: <<Continua a andar.>>",
     text: `“Noiva”, de Ali Hazelwood, parece leve… até deixar marca. Este romance, elétrico e mordaz entre uma vampira e um lobisomem, é simultaneamente leve e sangrento, da maneira mais doce possível. A química entre os dois personagens é lenta, tensa e palpável e quando explode, leva tudo consigo. 
-
-
-
-Misery é a filha do vampiro mais poderoso do norte da América. Desde pequena que é facilmente descartada por todos, principalmente pelo próprio pai, e usada como garantia de paz entre os humanos e vampiros.
-
-
-
-É, então, em território humano que cria laços inquebráveis com Serena, a sua melhor e única amiga humana. Misery serviu como garantia durante 10 anos entre os humanos, e assim que esta responsabilidade foi finalmente cumprida, decidiu que nunca mais iria por os pés em território vampírico. 
-
-
-
+    
+Misery é a filha do vampiro mais poderoso do norte da América. Desde pequena que é facilmente descartada por todos, principalmente pelo próprio pai, e usada como garantia de paz entre os humanos e vampiros. É, então, em território humano que cria laços inquebráveis com Serena, a sua melhor e única amiga humana. Misery serviu como garantia durante 10 anos entre os humanos, e assim que esta responsabilidade foi finalmente cumprida, decidiu que nunca mais iria por os pés em território vampírico. 
 Mas Serena desaparece de um dia para o outro sem deixar rasto. E o pai de Misery volta a convocá-la passados todos estes anos, desta vez para ser entregue aos lobisomens. 
-
-
-
 Agora Misery deve casar-se com Lowe, o Alfa dos lobisomens, de modo a que haja um acordo de paz entre os dois povos. Misery só aceita casar-se com o Alfa porque suspeita de que ele possa estar envolvido no desaparecimento de Serena.
-
-
-
 Assim que vê Misery vestida de noiva, Lowe fica enfeitiçado e sabe exatamente o quão arruinado está. Afinal, não é aceite que lobisomens e vampiros se apaixonem.  
-
-
 
 Na minha opinião, este thriller deixou muito a desejar. A história até cativa no início, no entanto, o enredo ficou bastante aquém, e a escrita tornou-se bastante aborrecida. Ficaram algumas pontas soltas e o final desiludiu muito. A autora poderia ter proporcionado aos fãs de thrillers um final muito mais emocionante e explorado mais aspetos da trama. Uma história da qual estás sempre à espera de que, a qualquer momento haverá um plot twist que te irá deixar de queixo caído, porém, isso nunca acontece.`,
     signedBy: "Sara Rebeca"
