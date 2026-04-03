@@ -182,8 +182,8 @@ Frase marcante representativa.`,
 
     // ── CONFIGURAÇÃO DE ASSINATURAS PERSONALIZADAS ──
     const personalSignatures = {
-        "Nádia Filipa": "Com amor, até ao próximo capítulo.<br><strong style='font-size: 1.2rem; color: var(--navy);'>Nádia Filipa</strong>",
-        "Nadia Irina": "Com carinho, do meu lado da estante.<br><strong style='font-size: 1.2rem; color: var(--navy);'>Nadia Irina</strong>",
+        "Nádia Filipa": "Com amor, até ao próximo capítulo,<br><strong style='font-size: 1.2rem; color: var(--navy);'>Nádia Filipa</strong>",
+        "Nadia Irina": "Com carinho, do meu lado da estante,<br><strong style='font-size: 1.2rem; color: var(--navy);'>Nadia Irina</strong>",
         "Sara Rebeca": "Com carinho e histórias no coração,<br><strong style='font-size: 1.2rem; color: var(--navy);'>Sara Rebeca</strong>"
     };
 
