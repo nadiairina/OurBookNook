@@ -194,7 +194,7 @@ Não é um livro que tenta ser avassalador e talvez seja aí que ganha. É consi
 },
         "A Enfermeira": {
     stars: "★★☆☆☆",
-    quote: "Farás o bem",
+    quote: "Farás o bem.",
     text: `“A Enfermeira”, de Valerie Keogh, conta a história de Lissa, uma mulher que se torna enfermeira depois de ter crescido a ser ignorada e mal tratada pelos colegas. No entanto, Lissa não se torna cuidadora por ser bondosa e empática. 
 
 
