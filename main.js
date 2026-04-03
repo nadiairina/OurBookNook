@@ -112,7 +112,7 @@ Uma leitura rápida, doce, jovem e muito confortável, daquelas perfeitas para q
         "A Sombra de Adeline": {
             stars: "★★★★★",
             quote: "O gato comeu-te a língua, ratinha?",
-            text: `O livro Haunting Adeline, de H. D. Carlton, é sem sombra de dúvida o livro mais erótico e sombrio que já li até aos dias de hoje. 
+            text: `O livro "A Sombra de Adeline", de H. D. Carlton, é sem sombra de dúvida o livro mais erótico e sombrio que já li até aos dias de hoje. 
 
 Este dark romance intenso e controverso acompanha Adeline, uma jovem escritora que acaba de herdar a antiga casa de família - uma mansão isolada, cheia de história e mistério.
 
