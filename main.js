@@ -160,8 +160,7 @@ Um dark romance tão intenso que nos deixa com água na boca mas também com uma
     text: `Há livros que nos devoram. A trilogia A Criada é claramente deste tipo. Com uma escrita viciante, envolvente e cheia de tensão, Freida McFadden consegue prender-nos desde a primeira página até ao último suspiro de cada capítulo, daqueles que dizemos “só mais um” e, de repente, já são 3 da manhã.
 
 “A Criada”
-O primeiro livro é, sem dúvida, o grande destaque da trilogia. Original, inesperado e com um ritmo que não abranda, apresenta-nos uma história que parece simples… até deixar de o ser. O verdadeiro brilho está na forma como tudo se transforma, levando-nos a questionar absolutamente tudo e todos. O plot twist final não é apenas surpreendente é daqueles que nos obriga a voltar atrás mentalmente e perceber o quão enganados estivemos, faz nos questionar todos os pequenos detalhes que lemos ao longo da história e como não conseguimos perceber antecipadamente a verdade.
-Frase marcante representativa.`,
+O primeiro livro é, sem dúvida, o grande destaque da trilogia. Original, inesperado e com um ritmo que não abranda, apresenta-nos uma história que parece simples… até deixar de o ser. O verdadeiro brilho está na forma como tudo se transforma, levando-nos a questionar absolutamente tudo e todos. O plot twist final não é apenas surpreendente é daqueles que nos obriga a voltar atrás mentalmente e perceber o quão enganados estivemos, faz nos questionar todos os pequenos detalhes que lemos ao longo da história e como não conseguimos perceber antecipadamente a verdade.`,
     signedBy: "Nádia Filipa"
 },
         "O Segredo da Criada": {
@@ -176,7 +175,33 @@ Frase marcante representativa.`,
     text: `O terceiro livro recupera parte da intensidade que sentimos no início da trilogia. Mais cativante do que o segundo, traz uma evolução interessante à história e aprofunda relações que já vinham a ser construídas especialmente aquelas que tantos leitores já acompanhavam com carinho. Há mais emoção, mais envolvimento, e uma sensação mais familiar ao redor de toda a história, com personagens que já nos parecem próximos e que nos afeiçoamos permite uma dinâmica crescente e amarga ao mesmo tempo por nos fazer duvidar “de quem já tão bem conhecemos” . Ainda assim, não supera a genialidade do primeiro. No geral, esta trilogia é uma experiência compulsiva e cheia de reviravoltas, perfeita para quem adora thrillers psicológicos que brincam com a nossa perceção da realidade. Mesmo com algumas oscilações ao longo dos livros, o talento de Freida McFadden para criar histórias viciantes é inegável. E no fim, fica aquela sensação agridoce: nenhum livro superou o primeiro… mas todos nos deram uma razão para continuar a virar páginas sem parar.`,
     signedBy: "Nádia Filipa"
 },
-        
+        "Pequenas Mentiras Inocentes": {
+    stars: "★★★★☆",
+    quote: "Às vezes, as mentiras mais perigosas são aquelas que aprendemos a contar como se fossem tradições",
+    text: `Se o assunto for livros que nos envolvem como um segredo sussurrado ao ouvido. “Pequenas Mentiras Inocentes”, de Jennifer Lynn Barnes, é exatamente a escolha perfeita: uma teia elegante de mistério, luxo e verdades escondidas sob camadas de perfeição.
+
+Com uma escrita ágil e fluída, este é daqueles livros que se lê quase sem dar por isso. As páginas passam rápido, sem momentos arrastados, enquanto a história se vai apertando lentamente como um laço invisível que nos prende cada vez mais. Não é um thriller pesado ou psicológico, mas tem aquele toque viciante.
+
+A narrativa leva-nos diretamente para um mundo distante da realidade da maioria…o da alta sociedade, onde poder, influência e aparência valem tanto ou mais do que a verdade. Entre vestidos deslumbrantes, bailes sofisticados e eventos luxuosos, existe algo muito mais sombrio a crescer por baixo de cada personagem.
+
+Seguimos três jovens protagonistas, diferentes entre si, mas ligadas por algo maior do que aparenta. Um segredo. Ou talvez vários. À medida que a história avança, percebemos que nada surge do nada tudo é herdado, repetido, passado de geração em geração como uma tradição silenciosa feita de mentiras, pactos e escolhas duvidosas.
+
+O mais cativante é essa sensação constante de estar a tentar montar um puzzle incompleto. As peças vão sendo reveladas pouco a pouco, obrigando-nos a questionar tudo, quem está a dizer a verdade? Quem está a manipular quem? E até onde alguém iria para proteger o seu lugar neste mundo?
+
+Não é um livro que tenta ser avassalador e talvez seja aí que ganha. É consistente, envolvente e perfeito para quem procura uma leitura leve mas intrigante, ideal para um fim de semana ou dias de férias, sem nunca perder o charme.
+`,
+    signedBy: "Nádia Filipa"
+},
+        "A Enfermeira": {
+    stars: "★★☆☆☆",
+    quote: "Farás o bem",
+    text: `“A Enfermeira”, de Valerie Keogh, conta a história de Lissa, uma mulher que se torna enfermeira depois de ter crescido a ser ignorada e mal tratada pelos colegas. No entanto, Lissa não se torna cuidadora por ser bondosa e empática. 
+
+
+
+Na minha opinião, este thriller deixou muito a desejar. A história até cativa no início, no entanto, o enredo ficou bastante aquém, e a escrita tornou-se bastante aborrecida. Ficaram algumas pontas soltas e o final desiludiu muito. A autora poderia ter proporcionado aos fãs de thrillers um final muito mais emocionante e explorado mais aspetos da trama. Uma história da qual estás sempre à espera de que, a qualquer momento haverá um plot twist que te irá deixar de queixo caído, porém, isso nunca acontece.`,
+    signedBy: "Sara Rebeca"
+},
 
     };
 
