@@ -137,7 +137,7 @@ A escrita da autora foca-se nos pontos errados. Há um detalhismo excessivo em r
 No geral, a história e a caracterização das personagens pareceram-me bastante forçadas.`,
     signedBy: "Nadia Irina"
 },
-        "A Dor que Fica ": {
+        "A Dor que Fica": {
     stars: "★★★★☆",
     quote: "Adoro quando te magoas, querida, mas só quando sou eu a infligir a dor.",
     text: `A Dor que Fica”, da autoria de H. D. Carlton, é uma história sobre obsessão, trauma, dor, amor sombrio e paixão. 
@@ -154,7 +154,7 @@ Um dark romance tão intenso que nos deixa com água na boca mas também com uma
     signedBy: "Sara Rebeca"
 },
 
-    "A Criada ": {
+    "A Criada": {
     stars: "★★★★☆",
     quote: "Nem tudo o que parece seguro é, de facto, um refúgio",
     text: `Há livros que nos devoram. A trilogia A Criada é claramente deste tipo. Com uma escrita viciante, envolvente e cheia de tensão, Freida McFadden consegue prender-nos desde a primeira página até ao último suspiro de cada capítulo, daqueles que dizemos “só mais um” e, de repente, já são 3 da manhã.
