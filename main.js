@@ -244,7 +244,7 @@ Assim que vê Misery vestida de noiva, Lowe fica enfeitiçado e sabe exatamente 
                 e.preventDefault();
                 document.getElementById('modalTitle').innerText = title;
                 document.getElementById('modalAuthor').innerText = author;
-                document.getElementById('modalStars').innerText = data.stars;
+                document.getElementById('modalStars').innerHTML = data.stars;
                 document.getElementById('modalQuote').innerText = `"${data.quote}"`;
                 
                 // Lógica de texto e assinatura personalizada
