@@ -164,7 +164,7 @@ O primeiro livro é, sem dúvida, o grande destaque da trilogia. Original, inesp
     signedBy: "Nádia Filipa"
 },
         "O Segredo da Criada": {
-    stars: "★★★☆☆",
+    stars: `★★★<span style="position:relative; display:inline-block; color:#ccc;">☆<span style="position:absolute; left:0; top:0; width:50%; overflow:hidden; color:#B8962E;">★</span></span>☆`,
     quote: "Às vezes, os maiores segredos são aqueles que escolhemos não ver.",
     text: `O segundo livro mantém o suspense característico da autora, com aquele ambiente tenso e desconfortável típico de que o perigo está á espreita que já esperamos e adoramos. No entanto, comparativamente ao primeiro, a ligação emocional à história e às personagens não é tão forte. Continua a ser uma leitura envolvente, mas falta-lhe aquele impacto arrebatador que nos deixa completamente rendidos. Ainda assim, a escrita continua afiada e impossível de largar.`,
     signedBy: "Nádia Filipa"
