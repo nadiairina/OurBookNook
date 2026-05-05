@@ -55,6 +55,7 @@ Com a sua escrita, Penelope combina de forma espetacular o erotismo com o medo e
 
 Mal posso esperar para ler o segundo livro da série Devils Night: “Hideaway”!`,
             signedBy: "Sara Rebeca"
+                },
         "Verity": {
     stars: "★★★★☆",
             quote: "Verity era mestre em manipular a verdade. A única dúvida que fica é: que verdade estava a manipular?",
@@ -86,6 +87,7 @@ No fundo, Verity é um thriller envolvente, tenso e perfeito para quem gosta de 
 
 `,
             signedBy: "Nádia Rodrigues"
+                },
         "O Acidente": {
     stars: `★★★<span style="position:relative; display:inline-block; color:#ccc;">☆<span style="position:absolute; left:0; top:0; width:50%; overflow:hidden; color:#B8962E;">★</span></span>☆`,
             quote: "Vou morrer aqui.",
@@ -107,6 +109,7 @@ Polly, que já foi enfermeira, parece uma mulher simpática e disposta a ajudar 
 
 Este thriller retrata de forma assustadora como podemos tirar ilações erradas sobre as pessoas e como isso nos pode levar a situações das quais não podemos voltar atrás. Neste livro de suspense, nada é o que parece e as coisas mudam e acabam de uma forma que nunca imaginaríamos, com reviravoltas de 180°.`,
             signedBy: "Sara Rebeca"
+                },
         "A Mulher no Andar de Cima": {
             stars: "★★★★★",
             quote: "Hoje, conheci o homem com quem me vou casar.",
@@ -128,6 +131,7 @@ Freida faz-nos sempre questionar tudo e todos e colocar tudo em causa, e, até a
 
 Do início ao fim, esta história é dolorosa e injusta, com temas muito sensíveis, que deixa quem a lê com uma sensação sufocante muito depois de a ter terminado.`,
             signedBy: "Sara Rebeca"
+                },
         "Grita por Nós": {
             stars: "★★★★★",
             quote: "Não vim em teu auxílio porque sou o teu príncipe encantado. Sou o vilão e quero-te só para mim.",
