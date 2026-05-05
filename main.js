@@ -39,19 +39,11 @@ document.addEventListener('DOMContentLoaded', () => {
             quote: "Sim, vais estar na minha cama, querida, mas não até desejares odiar-me.",
             text: `Era impossível ficar mais dark que isto. 
 
-
-
 Nunca antes fiquei tão incrédula a ler um livro. Penelope Douglas, traz-nos, desta vez, um dark romance entre um homem que procura vingança da mulher que ama, isto porque, Michael acredita que Erika é a culpada de os seus três melhores amigos terem sido presos três anos antes. Agora, Kai, Will e Damon acabaram de sair da prisão, e vão atrás dela com tudo, sem um pingo de piedade. Eles querem fazê-la sofrer e arrepender-se por tudo o que os fez passar (Esta trope 🤌🏽) 
-
-
 
 “Corrupt” deixa-nos à beira de um colapso de cada vez que abrimos o livro. O meu pensamento constante ao ler esta devassidão era “Isto não pode ficar melhor”, no entanto, ficava sempre, sempre melhor, mais picante, mais arrebatador e mais assustador! 
 
-
-
 Com a sua escrita, Penelope combina de forma espetacular o erotismo com o medo e o amor com a dor. Este livro causou tantas sensações em mim que eu achei que fosse explodir. Senti simultaneamente medo e euforia, raiva e excitação. Senti tristeza, mágoa e desilusão. Esta história tem de tudo e deixa-nos de queixo caído com o decorrer da história entre Michael, Erika Will, Kai e Damon. 
-
-
 
 Mal posso esperar para ler o segundo livro da série Devils Night: “Hideaway”!`,
             signedBy: "Sara Rebeca"
@@ -61,31 +53,19 @@ Mal posso esperar para ler o segundo livro da série Devils Night: “Hideaway�
             quote: "Verity era mestre em manipular a verdade. A única dúvida que fica é: que verdade estava a manipular?",
             text: `Se ainda não ouviste falar de Verity, prepara-te porque este é daqueles livros que te agarra logo nas primeiras páginas e não te larga até ao fim. A história acompanha Lowen, uma escritora que aceita terminar uma série de livros inacabados de uma autora famosa após um acidente misterioso. Para isso, muda-se temporariamente para a casa dessa autora e é aí que tudo começa a ficar… estranho.
 
-
-
 Sem entrar em spoilers, o que mais se destaca neste livro é a forma como a tensão vai crescendo de forma quase viciante e é incrível como começa logo de forma muito impactante na primeira página. É impossível não querer ler “só mais um capítulo”. A relação entre Lowen e Jeremy é outro ponto forte há uma química muito bem construída, cheia de intensidade e momentos que nos fazem sentir tão atraidos como a própria Lowen se sente. 
-
-
 
 Jeremy, aliás, é aquele tipo de personagem que não passa despercebido: envolvente, misterioso e com uma aura que nos deixa sempre a questionar o que realmente está por trás dele e daquela casa. E falando da casa… o ambiente é quase uma personagem por si só carregado, inquietante e cheio de segredos.
 
-
-
 Outro ponto impossível de ignorar é a presença de Verity. Sem revelar demasiado, há algo profundamente perturbador na forma como ela se impõe na narrativa quase como uma força invisível, sufocante, que paira sobre tudo, é quase como se ela não fosse apenas uma personagem mas também uma sensação, um desconforto persistente.
-
-
 
 Um dos aspetos mais interessantes é o recurso ao “livro dentro do livro”, que acrescenta camadas à narrativa e nos faz duvidar constantemente daquilo que pensamos saber. Ao longo da leitura, há sempre aquela sensação de que nada é exatamente o que parece e isso mantém o suspense lá no alto.
 
-
-
-Conaidero que o final podia ter sido um pouco mais desenvolvido. Parece que tudo acontece muito rápido depois de uma construção tão intensa. Ainda assim, não tira o mérito à experiência geral.
+Considero que o final podia ter sido um pouco mais desenvolvido. Parece que tudo acontece muito rápido depois de uma construção tão intensa. Ainda assim, não tira o mérito à experiência geral.
 
 
 
-No fundo, Verity é um thriller envolvente, tenso e perfeito para quem gosta de histórias que mexem com a nossa cabeça. E sim aquele sentimento constante de desconforto e medo? Sentimos tudo através da Lowen.
-
-`,
+No fundo, Verity é um thriller envolvente, tenso e perfeito para quem gosta de histórias que mexem com a nossa cabeça. E sim aquele sentimento constante de desconforto e medo? Sentimos tudo através da Lowen.`,
             signedBy: "Nádia Rodrigues"
                 },
         "O Acidente": {
@@ -93,19 +73,11 @@ No fundo, Verity é um thriller envolvente, tenso e perfeito para quem gosta de 
             quote: "Vou morrer aqui.",
             text: `“O Acidente”, de Freida McFadden, é mais um daqueles livros, com narrativas viciantes que nos fazem devorar cada página, que nos consomem e nos fazem roer as unhas, sempre à espera de ver o que vai acontecer a seguir.
 
-
-
 Este livro conta a história de Tegan, uma rapariga de 23 anos que engravidou de um desconhecido numa noite, há 8 meses atrás. A ligação que ela tem com a bebé, ainda no útero, é dos pontos que mais gostei no livro e que mais difere na escrita da Freida, comparativamente aos outros livros da autora. 
-
-
 
 Tegan tem um acidente de carro durante uma tempestade de neve e é encontrada por Hank, um homem com ar temível que a leva para a sua cabana remota, com o pretexto de a ajudar. Uma vez chegados a sua casa, a mulher de Hank, Polly, aparece, o que tranquiliza Tegan, uma vez que assim não se vê sozinha com Hank.
 
-
-
 Polly, que já foi enfermeira, parece uma mulher simpática e disposta a ajudar Tegan, no entanto, assim que ela percebe que Tegan está grávida, o rumo das coisas muda e ela começa a ter pensamentos estranhos. Ao que parece, este casal tem um passado sombrio do qual Tegan nem imagina.
-
-
 
 Este thriller retrata de forma assustadora como podemos tirar ilações erradas sobre as pessoas e como isso nos pode levar a situações das quais não podemos voltar atrás. Neste livro de suspense, nada é o que parece e as coisas mudam e acabam de uma forma que nunca imaginaríamos, com reviravoltas de 180°.`,
             signedBy: "Sara Rebeca"
@@ -115,19 +87,11 @@ Este thriller retrata de forma assustadora como podemos tirar ilações erradas 
             quote: "Hoje, conheci o homem com quem me vou casar.",
             text: `Uma vez mais, Freida McFadden cria nos seus leitores um misto de sensações com a sua escrita indecifrável. 
 
-
-
 Fiquei de queixo caído com as reviravoltas deste thriller e não tenho palavras para descrever a sensação com que fiquei quando o terminei. Apenas sei que me senti imensamente frustrada e triste (e com muita raiva).
-
-
 
 “A Mulher no Andar de Cima” é uma história angustiante, trágica e macabra. Se estão à procura de ficar com o coração nas mãos, este livro é para vocês! Não é, de todo, uma história feliz e deixa-nos com o coração apertado à medida que vamos descobrindo mais e mais sobre a Victoria e o Adam.
 
-
-
 Freida faz-nos sempre questionar tudo e todos e colocar tudo em causa, e, até ao último segundo, não podemos confiar em nada nem em ninguém. 
-
-
 
 Do início ao fim, esta história é dolorosa e injusta, com temas muito sensíveis, que deixa quem a lê com uma sensação sufocante muito depois de a ter terminado.`,
             signedBy: "Sara Rebeca"
@@ -137,29 +101,17 @@ Do início ao fim, esta história é dolorosa e injusta, com temas muito sensív
             quote: "Não vim em teu auxílio porque sou o teu príncipe encantado. Sou o vilão e quero-te só para mim.",
             text: `Oh. Meu. Deus. 🌶️🌶️🌶️🌶️🌶️
 
-
-
 Se este não é o livro mais hot que vocês vão ler, então não sei qual é. Ele devia ser crime de tão spicy que é. 
-
-
 
 “Grita por Nós”, de Molly Doyle, é um dark romance curto completamente extasiante, cheio de suspense e fantasia erótica que vicia qualquer leitor que aprecie este género. 
 
 Eu devorei-o numa hora e queria, por tudo, voltar a esquecê-lo para o ler de novo, como se fosse a primeira vez. 
 
-
-
 A história ocorre numa noite de Halloween, na qual não há quaisquer regras (é ainda mais picante do que estão a imaginar). A química entre os personagens é enlouquecedora, viciante, e é tudo o que nós queremos num dark romance intenso como este. 
-
-
 
 Quinn é uma rapariga introvertida com desejos sombrios que, numa festa de Halloween, conhece 3 homens mascarados - Ghost, Jason e Michael (que metem medo a qualquer um) - e quando eu digo que vocês não estão preparados para a obscenidade deste livro, não estou a exagerar. Ele é proibido, brutal, completamente inebriante e excitante.
 
-
-
 Não aconselho a leitura de “Grita por Nós” antes de irem dormir porque, acreditem quando digo que não vão conseguir pregar olho a noite inteira. 
-
-
 
 Todos os fãs de dark romance: façam o favor de devorar esta história tão quente e perigosa!!`,
             signedBy: "Sara Rebeca"
@@ -169,15 +121,9 @@ Todos os fãs de dark romance: façam o favor de devorar esta história tão que
             quote: "Não há nenhum lugar para onde possas fugir onde eu não te encontre.",
             text: `Tenho de confessar que, quando iniciei este livro, pensei que seria mais um daqueles romances cliché que começam por vingança, e depois as personagens apaixonam-se loucamente uma pela outra, mas caramba, como eu estava enganada.
 
-
-
 James é vingativo e não olha a meios para vingar a morte da sua família, incluindo manipular e enganar Wendy. Introvertida e com uma personalidade submissa, Wendy está sempre à espera da aprovação de todos, principalmente do pai. No entanto, a vida dela muda de um dia para o outro quando James entra na sua vida.
 
-
-
 As reviravoltas nesta história surpreenderam-me imenso, e tenho a dizer que eu estou sempre à espera de um grande plot twist. Alguns marcos importantes tiveram lugar mais rápido na história do que eu suponha, o que o diferencia dos outros romances do mesmo género.
-
-
 
 Um romance cheio de segredos obscuros, temas pesados, traições, vingança e um sentimento tão intenso capaz de deixar qualquer um sem fôlego! `,
             signedBy: "Sara Rebeca"
@@ -187,11 +133,7 @@ Um romance cheio de segredos obscuros, temas pesados, traições, vingança e um
             quote: "Espero que me ames, porque te amo loucamente, e vou amar-te para o resto da minha vida. Tentei manter-me afastado, porque julguei que era o correto, porra, mas não consigo. Preciso de ti, e amo-te.",
             text: `Penelope Douglas traz-nos mais um romance de aquecer o coração (e fazer subir a temperatura). “Paixão Proibida” é escaldante e cheia de uma tensão constante entre desejo e culpa. 
 
-
-
 Jordan tem 19 anos e é uma menina cheia de garra e desejos para o futuro e Pike? Pike é o pai do namorado dela (I know, right!!!). 
-
-
 
 Perigosamente picante, com uma proximidade forçada, picardias e ciúmes à mistura, e uma diferença de idades escandalosamente sensual, este romance é perfeito para leitores ávidos que amam histórias provocantes com age gaps um bocadinho mais esticadinhas 😏`,
             signedBy: "Sara Rebeca"
@@ -201,13 +143,9 @@ Perigosamente picante, com uma proximidade forçada, picardias e ciúmes à mist
             quote: "Esta não é uma daquelas histórias de amor bonitas em que ambos acabam por ficar juntos. Esta é uma daquelas histórias em que a mágoa e a confusão os consomem. É uma daquelas histórias em que a pessoa  que está a sofrer se levanta, ergue a cabeça e percebe o seu valor",
             text: `Chama-lhe o Que Quiseres apresenta-nos um romance contemporâneo que foge ao típico “felizes para sempre” e mergulha numa realidade emocional mais crua e, para muitos, bastante familiar. A história acompanha uma jovem que se vê presa numa relação indefinida marcada por idas e vindas com um rapaz que nunca consegue entregar-se por completo.
 
-
-
 Ao longo do livro, acompanhamos este ciclo repetitivo de reencontros e tentativas falhadas. Mesmo consciente de que ele não lhe consegue dar aquilo que precisa, a protagonista continua a justificar comportamentos e a alimentar a esperança de que, desta vez, será diferente. A narrativa, feita do ponto de vista dela, reforça bem este conflito interno entre razão e emoção algo com que muitos leitores se poderão identificar.
 
 A premissa é, sem dúvida, interessante e pouco explorada no romance tradicional: uma história que não idealiza o amor, mas sim expõe padrões emocionais difíceis de quebrar, muitas vezes ligados a traumas e inseguranças. No entanto, apesar deste potencial, o livro acaba por não atingir totalmente o impacto esperado.
-
-
 
 Com o avançar da leitura, a repetição do ciclo torna-se algo cansativa, faltando uma evolução mais marcante ou momentos de maior intensidade. Sente-se a ausência de um elemento surpreendente uma reviravolta, um desenvolvimento mais profundo ou algo que realmente marque o leitor. Além disso, a componente emocional poderia ter sido mais explorada, especialmente no que toca ao passado e aos bloqueios do personagem masculino, que acabam por ficar um pouco em aberto.
 
@@ -221,11 +159,7 @@ Ainda assim, é de valor reconhecer a intenção da autora: retratar um tipo de 
             quote: "Ele é um desejo do qual eu não consigo livrar-me.",
             text: `“Tóxico”, de Nicole Blanchard, é um romance sombrio e perverso entre uma enfermeira prisional e um recluso de alta segurança. Senti-me rapidamente envolvida pela trama e pela química intoxicante entre os dois personagens. A tensão entre Tessa e Gracin é de provocar arrepios desde o primeiro minuto. 
 
-
-
 O que é tão cativante no Gracin é que ele não esconde quem ele é — cruel, brutal e desequilibrado. Apesar de saber que ele é um homem perigoso, Tessa não consegue controlar a atração que sente por ele.
-
-
 
 Um dark romance tóxico, perigoso e completamente explosivo que irá despertar sensações eletrizantes a quem se atrever a mergulhar nele.`,
             signedBy: "Sara Rebeca"
@@ -237,27 +171,15 @@ Um dark romance tóxico, perigoso e completamente explosivo que irá despertar s
 
 Fiquei presa a esta história de amor tão intensa e proibida entre Malachi e Olivia, e, ela irá ficar vivida na minha memória durante muito, muito tempo.
 
-
-
 “Little Stranger”, de Leigh Rivers, tornou-se num dos meus livros preferidos. Esta obra tem mais do que apenas erotismo e cenas de tirar o fôlego. Ela envolve traumas, emoções explosivas, sentimentos incompreensíveis e uma ligação tão forte que é impossível de quebrar. 
-
-
 
 E é o livro mais tabu que eu já li. A sensação de o ler é “isto é tão sujo, mas não consigo para de o ler”. Eu devorei-o em pouquíssimas horas, de tão bom que ele é. 
 
-
-
 Em termos de erotismo, “Little Stranger” chega a ultrapassar a Sombra de Adeline, e isto é dizer muito. É hipnótico, é proibido, e é perturbador e é completamente DECADENTE. 
-
-
 
 Malachi é perigosamente obcecado por Olívia e ele não tira da cabeça de que ela irá ser dele, seja como for. É a melhor personagem literária já criada, na minha opinião. 
 
-
-
 A autora ultrapassa quaisquer barreiras até para dark romance, é demasiado erótico e eu não conseguia parar de reagir às sensações que os dois provocavam um no outro. 
-
-
 
 Quando pensas que é impossível ficar mais perturbador, Leigh prova-te o contrário. Um must read obrigatório para quem é viciado em heavy dark romance.`,
             signedBy: "Sara Rebeca"
