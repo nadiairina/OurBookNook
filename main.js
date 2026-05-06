@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const reviewsData = {
         "Intocável": {
     stars: "★★★★☆",
-            quote: "Sou tocada por um milhão de chamas e engulo outro milhão. Olha-me fixamente como se nunca antes me tivesse visto. Quero lavar a alma no azul sem fundo daqueles olhos.” - Juliette Ferrars,
+            quote: "Sou tocada por um milhão de chamas e engulo outro milhão. Olha-me fixamente como se nunca antes me tivesse visto. Quero lavar a alma no azul sem fundo daqueles olhos.” - Juliette Ferrars",
             text: `“Intocável” é o primeiro livro da saga “Shatter Me” e conta-nos a história de Juliette Ferrars, uma rapariga de 17 anos que vive numa sociedade distópica. Ela encontra-se presa há três anos, pois possui uma "condição" que faz com que o seu toque seja fatal. A história toma um rumo diferente quando o Governo a liberta, mas com uma condição muito específica…
 
 A escrita deste livro é peculiar e tocou-me bastante, apesar de ser ficção, existem muitos elementos poéticos e melancólicos. Juliette apaixona-se, e Tahereh Mafi descreve esse sentimento de uma maneira tão doce e poética que me emocionou bastantes vezes. Eu nunca tinha lido um livro de ficção que fosse tão poético e achei uma junção super original que resulta bastante bem, apesar de serem temas que, à primeira vista, não se "juntam".
@@ -196,7 +196,7 @@ Quando pensas que é impossível ficar mais perturbador, Leigh prova-te o contr�
         },
         "O Monte dos Vendavais": {
             stars: "★★★★★",
-            quote: "Ele é mais eu do que eu própria. Seja lá do que for que as nossas almas são feitas, a minha e a dele são feitas do mesmo.” - Catherine Earnshaw,
+            quote: "Ele é mais eu do que eu própria. Seja lá do que for que as nossas almas são feitas, a minha e a dele são feitas do mesmo.” - Catherine Earnshaw",
             text: `Um clássico intenso que não pede desculpa: “Wuthering Heights”.
 
 Há livros que gostamos… e há livros que nos marcam. O Monte dos Vendavais, de Emily Brontë pertence claramente à segunda categoria. Publicado em 1847, este clássico da literatura inglesa continua a ser uma leitura poderosa, sombria e emocionalmente intensa, daquelas que ficam connosco muito depois de virarmos a última página.
