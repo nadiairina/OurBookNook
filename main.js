@@ -196,7 +196,7 @@ Quando pensas que é impossível ficar mais perturbador, Leigh prova-te o contr�
         },
         "O Monte dos Vendavais": {
             stars: "★★★★★",
-            quote: "Ele é mais eu do que eu própria. Seja lá do que for que as nossas almas são feitas, a minha e a dele são feitas do mesmo.” - Catherine Earnshaw",
+            quote: "Ele é mais eu do que eu própria. Seja lá do que for que as nossas almas são feitas, a minha e a dele são feitas do mesmo.” - Catherine Earnshaw,
             text: `Um clássico intenso que não pede desculpa: “Wuthering Heights”.
 
 Há livros que gostamos… e há livros que nos marcam. O Monte dos Vendavais, de Emily Brontë pertence claramente à segunda categoria. Publicado em 1847, este clássico da literatura inglesa continua a ser uma leitura poderosa, sombria e emocionalmente intensa, daquelas que ficam connosco muito depois de virarmos a última página.
