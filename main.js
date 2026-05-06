@@ -34,6 +34,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // "Base de Dados" das reviews
     const reviewsData = {
+        "Intocável": {
+    stars: "★★★★☆",
+            quote: "“Sou tocada por um milhão de chamas e engulo outro milhão. Olha-me fixamente como se nunca antes me tivesse visto. Quero lavar a alma no azul sem fundo daqueles olhos.” - Juliette Ferrars",
+            text: `“Intocável” é o primeiro livro da saga “Shatter Me” e conta-nos a história de Juliette Ferrars, uma rapariga de 17 anos que vive numa sociedade distópica. Ela encontra-se presa há três anos, pois possui uma "condição" que faz com que o seu toque seja fatal. A história toma um rumo diferente quando o Governo a liberta, mas com uma condição muito específica…
+
+A escrita deste livro é peculiar e tocou-me bastante, apesar de ser ficção, existem muitos elementos poéticos e melancólicos. Juliette apaixona-se, e Tahereh Mafi descreve esse sentimento de uma maneira tão doce e poética que me emocionou bastantes vezes. Eu nunca tinha lido um livro de ficção que fosse tão poético e achei uma junção super original que resulta bastante bem, apesar de serem temas que, à primeira vista, não se "juntam".
+
+Juliette é uma rapariga solitária e deprimida, que sofre bastante com a falta de toque e de amor, sentindo-se profundamente sozinha no mundo. Com esta escrita tão melancólica e visual, o leitor consegue "ver" o seu mundo a ganhar vida e cor ao longo do livro. Quando Juliette se apaixona, e apesar de esta ser uma história de ficção onde o principal objetivo é a sobrevivência, como normalmente são, arrisco-me a dizer que as descrições poéticas dos seus sentimentos ofuscam a ficção. Dei por mim a querer mais descrições do que ela estava a sentir e a torcer mais pelo romance dos protagonistas do que pela sua própria sobrevivência naquela sociedade distópica.`,
+            signedBy: "Nadia Irina"
+                },
         "Corrupt": {
     stars: "★★★★★",
             quote: "Sim, vais estar na minha cama, querida, mas não até desejares odiar-me.",
