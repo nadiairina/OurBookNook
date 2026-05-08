@@ -45,18 +45,28 @@ Juliette é uma rapariga solitária e deprimida, que sofre bastante com a falta 
             signedBy: "Nadia Irina"
                 },
         "Corrupt": {
-    stars: "★★★★★",
-            quote: "Sim, vais estar na minha cama, querida, mas não até desejares odiar-me.",
-            text: `Era impossível ficar mais dark que isto. 
+    stars: `★★★<span style="position:relative; display:inline-block; color:#ccc;">☆<span style="position:absolute; left:0; top:0; width:50%; overflow:hidden; color:#B8962E;">★</span></span>☆`,
+            quote: "E apesar de ter sido sempre ela a observar-me enquanto crescíamos isso não significava que eu também não estivesse atento a ela. Ainda me lembro do dia em que ela nasceu. Há dezasseis anos, onze meses e dezoito dias. Naquela manhã fresca de novembro.",
+            text: `Uma noite pode mudar tudo.
+Um erro. Um segredo enterrado.
+E quatro rapazes que nunca esqueceram.
 
-Nunca antes fiquei tão incrédula a ler um livro. Penelope Douglas, traz-nos, desta vez, um dark romance entre um homem que procura vingança da mulher que ama, isto porque, Michael acredita que Erika é a culpada de os seus três melhores amigos terem sido presos três anos antes. Agora, Kai, Will e Damon acabaram de sair da prisão, e vão atrás dela com tudo, sem um pingo de piedade. Eles querem fazê-la sofrer e arrepender-se por tudo o que os fez passar (Esta trope 🤌🏽) 
+Anos depois, o passado deixa de ser apenas uma memória e transforma-se num jogo calculado de vingança. Michael regressa com um plano, e Erika torna-se o centro de tudo  presa numa teia onde o medo alimenta o desejo e onde cada passo pode ser o último.
+Há jogos que só terminam quando alguém perde tudo.
 
-“Corrupt” deixa-nos à beira de um colapso de cada vez que abrimos o livro. O meu pensamento constante ao ler esta devassidão era “Isto não pode ficar melhor”, no entanto, ficava sempre, sempre melhor, mais picante, mais arrebatador e mais assustador! 
+O perigo nunca foi tão atraente…
+Michael Crist destaca-se imediatamente como uma presença dominante. Misterioso distante, impenetrável e perigosamente fascinante.
+Mas por trás dessa postura, existem fissuras sinais de que o que sente pode ser mais complexo do que aquilo que demonstra.
 
-Com a sua escrita, Penelope combina de forma espetacular o erotismo com o medo e o amor com a dor. Este livro causou tantas sensações em mim que eu achei que fosse explodir. Senti simultaneamente medo e euforia, raiva e excitação. Senti tristeza, mágoa e desilusão. Esta história tem de tudo e deixa-nos de queixo caído com o decorrer da história entre Michael, Erika Will, Kai e Damon. 
+Ele queria odiá-la…
+A ligação entre Michael e Erika é intensa, carregada de passado e emoções mal resolvidas. Não é uma relação linear nem fácil  é construída no conflito, na tensão e numa atração que nunca desaparece.
 
-Mal posso esperar para ler o segundo livro da série Devils Night: “Hideaway”!`,
-            signedBy: "Sara Rebeca"
+A presença da “irmandade” entre o grupo de rapazes acrescenta uma camada extra à narrativa. Este grupo não é apenas um conjunto de personagens secundárias é uma força marcada por lealdade, segredos e uma energia quase ameaçadora que reforça o ambiente do livro.
+A motivação por trás da vingança vai sendo revelada lentamente através destes personagens, o suspense mantém sempre uma sensação de inquietação. E quando finalmente as peças começam a encaixar nada é exatamente como parece…
+
+Um dos elementos mais marcantes da história é a forma como explora a ligação entre medo e excitação. A adrenalina, o risco e o perigo tornam as emoções mais intensas, criando uma experiência de leitura fora do comum. É ousado, provocador e não procura agradar, as partes mais hot são carregadas de tensão psicológica e emocional e é exatamente o que atrai e se torna impactante, como se tudo fosse pensado em desafiar limites e nos libertarmos daquilo que nos é imposto.
+No final, Corrupt afirma-se como uma história sombria, viciante e emocionalmente intensa  daquelas que ficam na memória, foi o meu primeiro Dark Romance e abriu portas ao género na perfeição.`,
+            signedBy: "Nádia Filipa"
                 },
         "Verity": {
     stars: "★★★★☆",
