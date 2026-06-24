@@ -34,6 +34,110 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // "Base de Dados" das reviews
     const reviewsData = {
+
+        "Caro Leitor": {
+            stars: "★★★★★",
+            quote: "Onde há fumo, há fogo. Caro leitor, confia no teu instinto… estão todos a mentir. Mesmo aqueles que estão mais próximos de ti. Eu que o diga.",
+            text: `“Caro Leitor”, de Tate James, é daqueles livros que prende do início ao fim. Um dark romance super diferente uma vez que envolve o leitor numa atmosfera de constante mistério e suspense. 
+
+Assim que o terminei de ler, a minha primeira reação foi: “Que final foi este?! Preciso do 2° livro JÁ!”. Fiquei literalmente de boca aberta ao chegar à última página.
+
+James proporciona uma leitura envolvente, intensa e viciante. A escrita é fluida e dinâmica, o que torna impossível não devorar esta história de uma ponta à outra. Um outro feito que a autora consegue também alcançar, é que, quem está a ler facilmente se apega às personagens, o que torna toda a experiência ainda mais marcante.
+
+A história começa logo carregada de mistério, na qual uma das personagens escreve sobre uma sociedade intrigante e perigosa, avisando que se encontrarem este diário, é porque a mesma morreu, e quem está a ler será o próximo. Esta premissa prende instantaneamente quem está a ler, e a partir daí, a intensidade da narrativa só aumenta.
+
+No início, somos apresentados a quatro homens, Nate, Heathcliff, Carter e Royce, que decidem implicar com Ashely, porque ela é filha da mulher que se irá casar com o pai de Nate, que ele odeia. Ashely é nova na Universidade Nevaeh, na qual irá iniciar o mestrado e se depara com estes homens avassaladores.
+
+As suas brincadeiras estão longe de ser inocentes, transformando-se rapidamente num verdadeiro jogo de intimidação. Os mesmos fazem parte da Devil’s Backbone Society e são perigosamente bonitos, intimidantes e estão habituados a conseguir o que querem. A trope “Why Choose?” está constantemente presente no enredo, o que é só delicioso e extremamente empolgante. 
+
+No entanto, a opinião que vamos formando sobre as personagens vai-se alterando ao longo da história. Tate cria no leitor uma ânsia por descobrir quem está por de trás de todos os acontecimentos sombrios que vão surgindo. Como resultado, quem lê este dark romance permanece constantemente em alerta, sem conseguir confiar de forma plena em nenhum dos quatro, nem em ninguém.
+
+Nesta realidade, todos são suspeitos até prova em contrário.`,
+            signedBy: "Sara Rebeca"
+        },
+
+        "Nero": {
+            stars: "★★★★★",
+            quote: "Não me arrependo de te ter arrastado para esta vida. Devia. É dura, cruel e implacável, mas tu és tão minha como a própria escuridão. E isso significa que o nosso lugar é juntos.",
+            text: `“Nero”, de S. J. Tilly, diferencia-se dos outros livros de dark mafia romance uma vez que tem tanto de terno e doce como de obscuro e spicy, que é uma mistura que não se vê muito neste género de escrita. 
+
+Como já deu para perceber, adoro um homem literário que tem tanto de obcecado como de perigoso e como não podia deixar de ser, Nero tem exatamente a quantidade certa de obsessão e de possessividade, ao mesmo tempo que é carinhoso e gentil. E é daquele género de homem: “mato quem se atrever a olhar para ti”, mas para Payton é tão soft e doce, vendo nela uma pureza que não existe no seu mundo cruel.
+
+Nero é líder de uma organização mafiosa, é perigoso, controlador e implacável e entra sem autorização na vida de Payton. (Ele entra literalmente pela porta aberta da casa dela, e em vez de sentir medo, Payton sente-se atraída por ele). A partir daí desenvolvem uma relação cheia de dedicação obsessiva e proteção extrema.
+
+Payton é uma rapariga inocente e ingénua, no entanto, já passou por bem mais do que se vê à primeira vista, o que desencadeou uma série de traumas na mesma. E Nero capta isso assim que põe os olhos nela, o que o atrai instantaneamente.
+
+Uma história leve, apesar dos temas sombrios, centrada nas personagens, e com capítulos rápidos e uma escrita fluida, é realmente difícil não devorá-la em poucas horas.`,
+            signedBy: "Sara Rebeca"
+        },
+
+        "O Predador": {
+            stars: "★★★★★",
+            quote: "No que toca à morte, és minha.",
+            text: `Estão a ver quando terminam um livro e sentem umas saudades agonizantes dos personagens e de todo aquele universo literário? É o que eu sinto neste preciso momento e o que tenho vindo a sentir desde que conheci a história dos dois personagens mais complexos que já existiram. 
+
+“O Predador” é o primeiro livro da série Dark Verse, de RuNyx. Tristan e Morana infiltraram-se na minha pele, na minha mente, no meu coração, e nos meus pensamentos, e continuarão a ser uma presença eterna em mim. 
+
+Tristan, um homem enigmático, implacável e letal, ocupa uma posição de destaque na organização mafiosa Tenebrae Outfit. E é o único que não pertence à família através de laços de sangue, porém toda a gente o teme. Chamam-lhe de “O Predador”.
+
+É moralmente ambíguo, extremamente observador e as suas verdadeiras intenções permanecem ocultas durante grande parte do livro. 
+
+Morana Vitalio é filha de uma família rival, super inteligente e destemida. Quando os seus caminhos se cruzam, Morana vê Tristan instantaneamente como inimigo e sente uma raiva tremenda por parte dele em relação a ela que não consegue decifrar. Nada nele é decifrável…
+
+Mas há muito mais sobre o passado deles que Morana desconhece, mas que para Tristan não muda nada e para ela muda tudo. É de partir o coração. Ele quer a vida dela mais do que tudo… 
+
+Tanto a história individual de cada um como a química e a tensão existente entre os dois é viciante. Parece uma droga. Senti o coração aos saltos durante toda a leitura e não conseguia parar de roer as unhas e de dar gritinhos. A tensão entre Tristan e Morana é mais do que palpável, é eletrizante.
+
+RuNyx merece um prémio por criar dois dos personagens mais complexos que já conheci, com uma tensão excruciante e uma química avassaldora. Eu ainda não superei este livro e acho que nunca irei superar. Irei recomendá-lo sempre que me me pedirem sugestões de livros, quer estejam já familiarizados com este género quer não, porque esta história é também uma incrível porta de entrada para este mundo tão obscuro que é o dark romance.`,
+            signedBy: "Sara Rebeca"
+        },
+        
+        "Insaciável": {
+            stars: "★★★★★",
+            quote: "Centímetro a centímetro, com os olhos fixos e os lábios entreabertos, tornamo-nos os primeiros um do outro. E, se depender de mim, os últimos também.",
+            text: `Quando iniciei este livro, pensei que seria mais um dark romance que não variaria muito dos outros todos que já tive a oportunidade de ler, no entanto, “Insaciável” foi um livro que me devorou e me deixou completamente destruída. A escrita de Leigh Rivers transcende tudo o que já li, no que toca a dor e mágoa.
+
+A história de Kade e Stacey não é uma história feliz, é sombria e melancólica, a qual me deixou com lágrimas nos olhos e um aperto no coração. 
+
+Este livro tem temas pesados e muito sombrios, o que contrasta com o início da relação deles em adolescentes, tão doce e inocente. O processo de descoberta pela qual eles passam juntos e o amor que sentem um pelo o outro torna a história bonita e, simultaneamente, triste. 
+
+Mas os anos passaram e tanta coisa errada e cruel aconteceu entre eles, que os deixaram a ambos magoados um com o outro. 
+
+Kade é agora um homem perigoso, envolvido no submundo do crime, e odeia a ex-namorada mas vive obcecado com ela, e mesmo tendo ela o traído (ou pensa ele), não consegue parar de a observar à distância, nem de a perdoar. Quando regressa à cidade após anos de ausência, a atração, os segredos e o ressentimento entre os dois voltam a explodir. 
+
+Ele tem 5 regras:
+Primeira: Afasta-te da tua ex-namorada tóxica.
+Segunda: Mantém o número dela bloqueado.
+Terceira: Se estiverem na mesma sala, não olhes para ela — é uma armadilha!
+Quarta: Nunca, mas mesmo nunca!, tenhas qualquer contacto sexual com ela.
+Quinta: Nunca perdoes Stacey Rhodes…
+
+Porém, ele quebra quaisquer regras que possa ter sempre que ela está na sua presença…
+
+“Insaciável” faz jus ao nome, deixa-nos sempre a querer mais. Mais respostas, mais capítulos, mais de Kade e Stacey.
+
+Este livro é o primeiro da trilogia “Abismo da Escuridão”, e assim que chegarem à última página, o segundo vai tornar-se uma necessidade, não uma opção.`,
+            signedBy: "Sara Rebeca"
+        },
+        
+        "Um por Um": {
+            stars: "★★★★☆",
+            quote: "Posso dizer-vos já o meu segredo: No fim desta semana, só um de nós regressará a casa com vida.",
+            text: `“Um por Um” é uma história arrepiante, típica da autora Freida McFadden. Este thriller inicia-se logo com uma mensagem que ecoa por todo o livro: uma floresta, 6 amigos completamente sozinhos, nenhum escapará com vida, à exceção de um. Mas quem? Coisas estranhas acontecem à volta dos seis. Um a um, começam a desaparecer sem deixar rastro, o que cria uma sensação constante de mistério e intriga.
+
+“Porque é que continuam a desaparecer? O que se está realmente a passar? Será que estão a ser caçados ou enganados uns pelos outros?” Eram as perguntas que me iam surgindo à medida que ia lendo este livro. Todos eles iam tendo comportamentos estranhos a certo ponto, pelo que Freida consegue mesmo cumprir o seu objetivo: deixar-nos a todos à nora.
+
+Esta história é contada sobre o ponto de vista de 2 personagens: Claire e Anónimo. A escrita anónima é enigmática, e deixa-nos sem saber o que pensar e a sentir diversas emoções, todas elas contraditórias. 
+
+As coisas nunca são o que parecem. O que pode parecer terrível pode-se tornar num pesadelo ainda maior.
+
+Esta história impressionou-me até certo ponto, isto porque já começo a perceber o desenrolar da escrita de McFadden e como a mesma vai construindo as suas épicas reviravoltas. Senti-me ansiosa com o final, uma vez que este mexe com a cabeça da personagem principal, mas já não é nada a que eu não esteja habituada ao ler os livros desta autora.
+
+No entanto, é espantoso como Freida consegue criar mundos inteiros com reviravoltas de arrepiar, é tão fácil para ela mexer com a cabeça do leitor: primeiro gosta-se de um personagem, logo a seguir detesta-se com todo o íntimo.
+
+Freida McFadden tem, realmente, um dom no que toca a deixar o leitor ansioso e sempre à espreita, sem conseguir largar o livro.`,
+            signedBy: "Sara Rebeca"
+        },
         "Intocável": {
     stars: "★★★★☆",
             quote: "Sou tocada por um milhão de chamas e engulo outro milhão. Olha-me fixamente como se nunca antes me tivesse visto. Quero lavar a alma no azul sem fundo daqueles olhos.” - Juliette Ferrars",
