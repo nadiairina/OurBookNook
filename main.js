@@ -35,6 +35,42 @@ document.addEventListener('DOMContentLoaded', () => {
     // "Base de Dados" das reviews
     const reviewsData = {
 
+        "Deus da Dor": {
+            stars: `★★★★<span style="position:relative; display:inline-block; color:#ccc;">☆<span style="position:absolute; left:0; top:0; width:50%; overflow:hidden; color:#B8962E;">★</span></span>`,
+            quote: "Eu estava destinado a quebrar a Annika Volkov. Só não sabia que seria eu a ficar destroçado.",
+            text: `Estive bastante perto de dar 5 estrelas a esta obra-prima, em vez disso, avaliei-a em 4,5 estrelas apenas pelos seguintes motivos:<br><br>
+“Deus da Dor” possui alguns aspetos similares ao primeiro livro da Saga “Legado dos Deuses”: Deus da Malícia. A sensação que tive no início do livro foi uma sensação de deja vu em relação ao discurso de Craighton comparativamente ao discurso de Kllian, ambos com fixação pelo facto das protagonistas femininas serem virgens, no entanto, essa sensação foi desaparecendo à medida que conhecia mais e mais do Creighton e do seu passado. <br><br>
+Outro exemplo é precisamente esse: as protagonistas de ambos os livros nunca perderam a virgindade, o que acaba por tornar alguns discursos ligeiramente repetitivos. <br><br>
+Um aspeto que reparei também é que as relações dos pais espelham as relações dos filhos, o que na minha opinião, se tornou demasiado recorrente, porém, gosto de ler sobre casais que continuam apaixonados muitos anos depois de se conhecerem, que era o caso de todos eles.<br><br>
+Apesar deste pequenos detalhes, AMEI e senti-me verdadeiramente fascinada pela história de Annika e Creighton. Rina Kent escreve realmente uma jóia literária sob a forma de um dark romance. <br><br>
+Annika é uma princesa da máfia, completamente protegida pelo pai e pelo irmão, Jeremy, que nunca a deixam fazer nada remotamente perigoso. E desde que conhece Craighton, desenvolve logo de imediato um fascínio por ele, uma vez que os dois são o oposto um do outro, em todos os sentidos. <br><br>
+Enquanto ela é calorosa, social, extrovertida e fala durante horas, ele é calado, sério e emocionalmente fechado (e não lhe presta atenção nenhuma, nem a ela nem a ninguém). <br><br>
+Achei, contudo, que no início, o interesse de Creighton por Annika não tenha sido bem explorado, uma vez que senti que surgiu de forma um pouco repentina. Ainda assim, a história torna-se muito mais fluida com o progresso dos acontecimentos. <br><br>
+Creighton começa a interessar-se por Annika porque ele é sádico e ela possui um lado submisso que o atrai assim que repara nessa característica. Até então, ele apenas a via como uma boneca pequena e frágil, que ao mínimo toque, se partiria. <br><br>
+Craighton é uma personagem moralmente cinzenta, intensa e implacável, com tendências autodestrutivas. Com um plano de vingança por cumprir, acaba por desenvolver um interesse por Annika, o que, eventualmente, os vai levar por caminhos obscuros e perigosos.<br><br>
+Adorei, adorei, adorei a dinâmica entre os dois. Posso dizer, com confiança, que ultrapassou a minha loucura e o fascínio que tinha pelos protagonistas de “Deus da Malícia”. Este livro tem as cenas mais caóticas de sempre, nas quais os dois se colocavam em situações de total desespero.<br><br>
+Este dark romance explora bastante a parte emocional e a vulnerabilidade dos personagens, envolve BDSM, o que torna tudo ainda mais excitante, brutal e sem filtros, e é o típico “Grumpy x Sunshine” que qualquer leitor de romance adora.`,
+            signedBy: "Sara Rebeca"
+        },
+
+        "Deus da Malícia": {
+            stars: `★★★★<span style="position:relative; display:inline-block; color:#ccc;">☆<span style="position:absolute; left:0; top:0; width:50%; overflow:hidden; color:#B8962E;">★</span></span>`,
+            quote: "Tu odeias isso, não é? O quanto queres o que eu tenho para oferecer, como anseias por esse sentimento de te deixares ir enquanto és totalmente devastada. Por um momento, queres deixar de ser uma boa rapariga e apenas libertar o que quer que tenhas aí dentro, não é verdade?",
+            text: `“Deus da Malícia” é o primeiro livro da Saga “Legado dos Deuses”, de dark romance, escrito por Rina Kent. Esta é uma leitura bastante controversa, emocionalmente instável e crua. Um dark romance sem filtros. E é excitante até dizer chega. <br><br>
+Killian Carson aprendeu desde cedo que não se encaixa na sociedade normalizada e limitada. Ele nasceu para reinar sobre ela.<br><br>
+Com uma grave perturbação de personalidade antissocial e possuidor de traços de narcisismo e maquiavelismo, é manipulador, desprovido de empatia afetiva e sente uma superioridade em relação a todos os outros neurotipicos, que segundo ele, são demasiado fracos, uma vez que se deixam guiar pelas suas emoções. <br><br>
+Carson sente impulsos constantes para saciar os seus desejos. Contudo, conseguiu adaptar-se às expectativas sociais e consegue enganar muito bem todos os que o rodeiam. Exceto Glyndon, que conhece o seu lado sombrio numa noite marcada pelo desespero. A noite é a única altura do dia em que Killian se permite ser exatamente como é, reagindo aos seus impulsos mais depravados. Ela vê o monstro que se esconde por baixo da máscara, e odeia-o com todo o seu ser. <br><br>
+Glyndon King é uma rapariga traumatizada, super reservada e deprimida. Ela conhece-o quando pensa em atirar-se de um penhasco, no qual o seu melhor amigo se suicidou. Killian salva-a, mas tem outras intenções para com ela, uma vez que não faz nada por bondade. Este livro explora bastante o consentimento duvidoso, fazendo de Carson um anti-herói cruel e implacável, obcecado pela perseguição e pela inocência de Glyndon.<br><br>
+King carrega um enorme sentimento de inferioridade dentro dela, porque dos 3 irmãos, é a que tem uma arte mais caótica e distinta, sendo constantemente alvo de comparações com a sua família. <br><br>
+Landon e Brandon, os seus irmãos, são gémeos, mas não podiam ser mais diferentes um do outro. O primeiro, tal como Killian, nasceu diferente, e tem uma obsessão em esculpir esculturas, o que o torna o mais focado e dotado dos irmãos. Brandon é meigo e adora Glyndon e é também super talentoso na sua arte, tal como a sua mãe, que é uma artista de renome.<br><br>
+Tanto Brendan como Glyndon esforçam-se ao máximo para se manterem afastados de Landon, porque este não tem qualquer problema em usar quem quer que seja para conseguir aquilo que quer. O que a faz querer fugir de Killian, uma vez que vê demasiadas parecenças entre ambos.<br><br>
+Um dos aspetos que mais apreciei neste livro foi o facto de Killian ser um psicopata diagnosticado, mas começar a apaixonar-se por Glyndon, sem se aperceber sequer desse facto. Supostamente, não devia ser capaz de amar, mas tem uma obsessão por ela, que não consegue controlar. E simultaneamente, é fascinante acompanhar a evolução desse sentimento.<br><br>
+Adorei a forma, sem filtros, como Kent construiu a personagem de Killian, é incrível ver como o estudo da mente está por de trás de cada detalhe idealizado. Carson é uma personagem digna de estudo, o que me fascina, pois dissecar o que se esconde nas mentes mais obscuras é uma das minhas maiores paixões. Adoro ler livros assim, que exploram personagens psicologicamente complexas e moralmente ambíguas, e observar como lidam com aquilo que sentem.<br><br>
+“Deus da Malícia” não tenta justificar o comportamento de Killian nem vender uma relação como modelo saudável. A proposta é explorar uma fantasia de romance obscuro, intensa e desconfortável, dirigida a leitores que apreciam este subgénero.<br><br>
+E posso dizer que é uma experiência chocante e deliciosa.`,
+            signedBy: "Sara Rebeca"
+        },
+
         "Caro Leitor": {
             stars: "★★★★★",
             quote: "Onde há fumo, há fogo. Caro leitor, confia no teu instinto… estão todos a mentir. Mesmo aqueles que estão mais próximos de ti. Eu que o diga.",
