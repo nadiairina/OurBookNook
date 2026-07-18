@@ -34,6 +34,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // "Base de Dados" das reviews
     const reviewsData = {
+        "Deus da Ira": {
+            stars: `★★★★<span style="position:relative; display:inline-block; color:#ccc;">☆<span style="position:absolute; left:0; top:0; width:50%; overflow:hidden; color:#B8962E;">★</span></span>`,
+            quote: "Ele quer perseguir-me. Consigo ver nos seus olhos cinzento-escuros que ele quer que eu fuja. Não, ele deseja-o. Está à espera de que eu fuja para poder divertir-se a perseguir-me. Como naquela floresta.",
+            text: `“Deus da Ira”, de Rina Kent, é o terceiro dark romance da saga “Legado dos Deuses”. Kent continua a surpreender com a sua habilidade em contar histórias tão cativantes e avassaladoras.<br><br>
+Um dos aspetos que apreciei bastante nesta leitura, foi o facto de a construção da linha temporal ter sido meticulosamente estudada pela autora. É incrível como todos os acontecimentos deste livro coincidem com o livro anterior (“Deus da Dor”). Isto porque, os acontecimentos do terceiro livro têm lugar ao mesmo tempo que o do segundo livro da saga.<br><br>
+Também o facto de a mesma não ter revelado nenhum detalhe importante do segundo livro, tendo assim o cuidado para com os leitores que não leem a saga por ordem de lançamento, foi um dos muitos pontos forte deste dark romance.<br><br>
+A escrita de Kent é bastante intensa e cinematográfica. Houve imensas cenas nas quais eu sentia que estava a ver um filme, principalmente uma das últimas cenas do livro, que foi de tirar o fôlego.<br><br>
+Cecily Knight é uma boa rapariga, profundamente introvertida e cautelosa devido a acontecimentos sombrios que tiveram lugar no seu passado, que a marcaram ao ponto de querer sentir-se invisível e esconder-se do mundo exterior.<br><br>
+Por esses mesmos motivos, Cecily sente-se reprimida e incapaz de voltar a confiar noutra pessoa de novo. No entanto, tem fantasias e fetiches nada convencionais, os quais tenta a todo custo silenciar e fingir que não existem. Neste sentido, Knight não mostra este seu lado sombrio ao mundo, ainda assim, um homem de máscara laranja néon aparece para deitar por terra tudo o que ela pensava que era o certo e arrancá-la do seu esconderijo.<br><br>
+Jeremy Volkov é líder dos Heathens, parte da máfia russa e atual monarca reinante sobre toda a Kings U. É letal, calculista, frio e controlador. Jeremy não pede desculpa por ser quem é, e está sempre a um passo à frente de todos, fazendo com que o mesmo tenha bastante dificuldade em confiar em alguém fora do seu círculo mais íntimo. Por ser filho de quem é e pelo seu futuro estar traçado desde cedo, sabe muito bem que não se pode dar ao luxo de ser nada menos do que uma besta fria e sem alma.<br><br>
+Mas quando começa a conhecer Cecily, descobre que ela tem as mesmas fantasias distorcidas que ele, e usa-a para seu próprio proveito. No entanto, uma guerra interior instala-se dentro dele quando começa a criar uma  obsessão e uma possessividade perigosa por ela. Ele vira uma besta sem controlo quando ela está na sua presença.<br><br>
+Ao mesmo tempo, ajuda-a, através de meios um pouco ortodoxos, (como não podia deixar de ser num dark romance) a aceitar-se tal como é, com todas as suas feridas e cicatrizes, e tudo o que isso acarreta.<br><br>
+Jeremy nunca deixa ninguém entrar no seu coração, se falham uma vez com ele, estão mortos. E tem também ressentimentos profundos dentro dele, traumas de infância que não foram resolvidos. Cecily, com o seu jeito delicado e doce, acaba por quebrar cada uma dessas muralhas.<br><br>
+Na minha opinião, Cecily e Jeremy foram as personagens que mais evoluíram neste mundo ficcional criado por Kent, o que se torna num dos pontos mais fortes deste livro.<br><br>
+Cecily , ao longo do livro, acaba por aceitar as partes mais sombrias de si mesma. E também Jeremy vai crescendo enquanto personagem, de forma gradual e bem estruturada.<br><br>
+E claro, toda a dinâmica entre os dois é carregada de tensão sexual, na qual a vulnerabilidade anda de mãos dadas com com toda esta intensidade, tornando a relação tão viciante quanto caótica. Esta dinâmica é marcada por uma perseguição obsessiva, pela trope “enemies to lovers” e um hipnotizante jogo do gato e do rato.<br><br>
+Ela gosta de fugir, para depois ser apanhada por ele. Apesar destes jogos intensos e sombrios que os dois gostam de jogar, Jeremy vê-a quando ela se sente invisível, dá-lhe vida e protege-a de tudo e de todos.<br><br>
+Uma história enigmática e cheia de segredos, capaz de aguçar a curiosidade de qualquer leitor de dark romance.`,
+            signedBy: "Sara Rebeca"
+        },
 
         "Deus da Dor": {
             stars: `★★★★<span style="position:relative; display:inline-block; color:#ccc;">☆<span style="position:absolute; left:0; top:0; width:50%; overflow:hidden; color:#B8962E;">★</span></span>`,
