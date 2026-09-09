@@ -34,6 +34,129 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // "Base de Dados" das reviews
     const reviewsData = {
+
+        "Deus da Ruína": {
+            stars: "★★★★★",
+            quote: "Pareces a minha obra-prima favorita.",
+            text: `“Deus da Ruína” é o quarto livro da saga de dark romance, “Legado dos Deuses”, de Rina Kent. Este acompanha a dinâmica hipnotizante entre Mia e Landon.<br><br>
+É o primeiro livro da saga que classifiquei com as 5 estrelinhas, porque é, até agora, o que contém a história mais simbólica e inovadora.<br><br>
+“Deus da Ruína” explora uma vez mais a obsessão e a possessividade do personagem masculino em relação à personagem feminina. No entanto, aprofunda também o inverso, o que me surpreendeu bastante, já que é raro encontrar personagens femininas com uma vertente tão possessiva no universo do dark romance.<br><br>
+Rina Kent retrata também traumas que deixaram marcas profundas e que se transformaram em medos incapacitantes, e, a linha ténue entre o bom e o mau, o correto e o errado.<br><br>
+Mia Sokolov é uma protagonista reservada, mas resiliente e determinada, que chama a atenção tanto pela sua beleza como pelo seu distinto estilo gótico.<br><br>
+Ela foi raptada quando tinha 8 anos de idade, o que a marcou profundamente, deixando-a de tal maneira traumatizada ao ponto de perder a voz, a qual procura ainda hoje em dia. Mia é constantemente torturada por demónios de um passado doloroso, os quais ainda estão bem presentes na sua vida. No entanto, a mesma revela uma força silenciosa brutal, que é um dos aspetos mais emocionantes do livro.<br><br>
+Landon King é o arrogante líder dos Elites, uma sociedade secreta presente na Universidade REU - Royal Elite University. Ele é o típico anti-herói caótico, carismático e manipulador. Tem uma personalidade magnética, sedutora mas igualmente brutal. Dependendo do seu humor e dos seus objetivos, ele pode ser o mais charmoso ou o mais mortal.<br><br>
+King foi clinicamente diagnosticado desde cedo com um transtorno de personalidade antissocial e narcisista, e usa a sua arte como forma temporária de silenciar os seus próprios demónios. Ele prospera no caos e na anarquia, não sendo capaz de sentir qualquer tipo de arrependimento ou remorsos pelo caos que causa na vida dos outros.<br><br>
+E claro, usa quem quer para os seus planos perversos, incluindo o irmão de Mia, o Nikolai.<br><br>
+Assim, Mia quer vingança pelo que Landon fez à sua família. Ela consegue levar a cabo o seu plano, juntamente com a sua irmã gémea, Maya, porém, Landon é demasiado perspicaz e rapidamente descobre que foi ela quem esteve por detrás da sua humilhação e agora, tem como único objetivo destruí-la. E os métodos dele são bem piores que os de Mia. King não tem limites, e vê nela um desafio, elevando os seus jogos psicológicos a outro nível.<br><br>
+No entanto, esta história torna-se tão única e especial porque, quando a vê com medo e paralisada, Landon associa-a automaticamente às suas estátuas - linda, sem vida, sem expressão no olhar e completamente à mercê dele. Ela é a estátua perfeita.<br><br>
+A partir desse momento, Landon começa a desenvolver uma obsessão frenética por ela, tornando-a, quer ela queira ou não, na sua Musa.<br><br>
+A química entre os dois é alucinante e tornam-se completamente viciados um no outro. Ambos têm uma besta dentro deles e Landon vê logo isso, mesmo que Mia finja ser quem não é.<br><br>
+Ele aprendeu linguagem gestual para conseguir comunicar com ela e nunca gostou de ouvir as vozes entediantes dos outros, e no entanto, a voz dela é a única que ele dá por si a querer secretamente ouvir. E Mia vê nele o monstro que pode lutar contra os seus demónios, proporcionando-lhe uma sensação de liberdade que ela nunca tinha sentido.<br><br>
+Tal como os outros livros, “Deus da Ruína” é uma história repleta de reviravoltas marcantes, conflitos familiares e completamente viciante, do início ao fim.<br><br>
+Uma leitura emocional, memorável e intensa, que simboliza a possibilidade de encontrar luz mesmo nos lugares mais sombrios. Sem dúvida, um dos romances mais marcantes da saga.`,
+            signedBy: "Sara Rebeca"
+        },
+
+        "Deus da Fúria": {
+            stars: "★★★★★",
+            quote: "Vou arruinar-te tanto quanto tu me arruinaste a mim, meu Flor de Lótus. Vou meter-me tão fundo debaixo da tua pele que nunca mais te vais livrar de mim.",
+            text: `“Deus da Fúria” despedaçou a minha alma, o meu coração e a minha sanidade mental. Pedaço a pedaço.<br><br>
+Rina Kent construiu uma história de amor, que é, ao mesmo tempo, tão bonita e profundamente carregada de dor e sofrimento, e deu-lhe um final digno, emocionante e cheio de superação.<br><br>
+De todos os livros da saga “Legado dos Deuses”, este foi, para mim, o mais devastador. A escrita de Kent fez-me sentir a angústia e a dor dos personagens com tanta intensidade, ao ponto de sofrer e chorar com eles. Assim que estes sentimentos se apoderaram de mim, tornou-se impossível conter as lágrimas.<br><br>
+A forma crua e real como a autora descreve a dor e o poço de desespero vividos pelas personagens faz com que seja fácil colocarmo-nos no lugar delas e sentir exatamente aquilo que elas estão a sentir.<br><br>
+No entanto, como é um dark romance, “Deus da Fúria” tem também a sua dose de erotismo (e que dose 🤭). Esta leitura foi tão sensual, tão carregada de tensão e de tantas sensações novas que deixam qualquer um que se atreva a pegar neste livro com água na boca e incapaz de o pousar.<br><br>
+Brandon e Nikolai protagonizam as cenas mais picantes de toda a saga, e a sua história é, sem sombra de dúvida, a mais escaldante e explosiva. Dou um 1000000/10 à química irresistível entre os dois.<br><br>
+Nikolai Sokolov é um príncipe da máfia russa, extremamente impulsivo e agressivo. Ele sente uma fúria incontrolável que o leva a descarregá-la através da violência e da devassidão, mas com Brandon, e apenas com ele, acaba por se tornar num ursinho carinhoso, querendo apenas a sua atenção e carinho.<br><br>
+Nikolai persegue-o, obrigando-o a confrontar a sua própria sexualidade da maneira mais intensa e erótica. Ao contrário de Brendan, Nikolai sempre foi muito aberto em relação à sua sexualidade e, desde muito novo, soube que gostava tanto de raparigas como de rapazes.<br><br>
+Assim que se aproxima de Brandon, perde todo o interesse nas suas inúmeras conquistas sem significado e torna-se obcecado por ele.<br><br>
+Brandon King não se sente bem na própria pele. Acredita profundamente que há algo de errado consigo próprio, porque não se considera igual às outras pessoas. E desde pequeno se sente inferior em relação ao seu irmão gémeo, Landon, o que o leva a acreditar que nunca irá ter o mesmo valor que ele.<br><br>
+Brandon tem vergonha de si mesmo e ergue uma muralha à sua volta, fazendo de tudo para que Nikolai não entre. Ele acredita que, se revelar os seus traumas e se mostrar verdadeiramente quem é, Nikolai, e todas as pessoas que ama, irão detestá-lo e rejeitá-lo. Por isso mesmo, sustenta uma imagem de menino de ouro, perfeito e dócil, para que ninguém veja como realmente fica quando perde o controlo.<br><br>
+King é atormentado por demónios e obcecado pelo controlo, mas Nikolai vai quebrar todas as barreiras, e Brandon vai fazer o mesmo por ele.<br><br>
+Este livro aborda a sexualidade de uma forma genuinamente bela e natural, transmitindo uma mensagem profundamente inspiradora.<br><br>
+“Deus da Fúria” deixou-me simultaneamente inconsolável e ansiosa pelos momentos eletrizantes entre Brandon e Nikolai. Adorei esta leitura do início ao fim, e já conquistou um lugar muito especial no meu coração.`,
+            signedBy: "Sara Rebeca"
+        },
+
+        "Deus da Guerra": {
+            stars: "★★★★★",
+            quote: "A beleza destroçada sempre foi a mais assombrosa. E também a mais sedutora.",
+            text: `“Deus da Guerra” é o último livro da saga “Legado dos Deuses”, de Rina Kent. Este último livro proporcionou aos fãs deste universo tão viciante, um final muito especial, repleto de nostalgia e de memórias marcantes. Ava e Eli King representam o fim de uma era.<br><br>
+A história de Eli e de Ava é particularmente pesada e obscura. Quanto mais lia, mais deprimida e emocionalmente desgastada me sentia. Desde o início, este livro está envolvido numa atmosfera sombria, com momentos de tirar o fôlego. A história de ambos e tudo o que aconteceu no meio transtornou-me de tal maneira que me fez sentir agoniada, de tão perturbadora que é.<br><br>
+Ava tem um perturbação mental, que se manifesta através de episódios dissociativos, estado de fuga dissociativa, alucinações e amnésia seletiva/dissociativa. E como é bastante comum nestes casos, ela tem comportamentos autodestrutivos, como o alcoolismo, com forma de escapar da sua mente.<br><br>
+Ava acaba por acordar numa cama de hospital sem se lembrar dos últimos dois anos da sua vida, e nomeadamente de que é casada com Eli King! Na cabeça dela isto simplesmente não faz qualquer sentido porque ela o odeia por ter partido o seu coração.<br><br>
+Ava Nash sempre teve um fraquinho por Eli King, que é 6 anos mais velho do que ela e filho da madrinha de Ava, pelo que sempre estiveram presentes na vida um ao outro desde crianças. No entanto, os sentimentos de Ava por Eli não são correspondidos e ele não tem qualquer problema em arruinar a sua fantasia, deixando-a completamente destroçada.<br><br>
+Eli é frio, calculista e controlador, com uma personalidade dominante e implacável. Um Deus da guerra, literalmente. E Ava desperta nele um lado que ele próprio não consegue compreender nem controlar.<br><br>
+Quando Eli se dá conta, os dois já tinham entrado num jogo altamente possessivo e provocador, no qual faziam de tudo para se irritarem mutuamente, como eliminar os pretendentes um do outro. Aqui, Eli percebe que começa a desenvolver um sentimento de posse e uma obsessão por Ava, porque ela é a única que não tem medo de o provocar.<br><br>
+Assim, quando ela acorda no hospital com amnésia dissociativa, tudo o que se lembra é do ódio que sente por ele. Não se lembra nem compreende porque se casaram se Eli nunca mostrou o mínimo de interesse por ela, e sente também que ele não lhe está a contar a história toda.<br><br>
+Porém, Ava repara que há algo de diferente nele relativamente ao seu eu mais novo, de que ela se lembra. Eli agora já toca nela e mostra um desejo que antes não parecia sentir.<br><br>
+Os dois têm uma química escaldante, cheia de provocações e de jogos psicológicos, sobressaindo perfeitamente aquela linha ténue entre o amor e o ódio. Ela odeia-o mas não consegue parar de imaginar as mãos dele nela e, percebe que nunca irá deixar de sentir o fascínio e o desejo que sempre sentiu por ele desde menina.<br><br>
+Com o decorrer do livro, vamos percebendo que Eli esconde muitas coisas que aconteceram de Ava para ela não piorar, sacrificando-se a si próprio para o bem da mesma. Toda a dinâmica entre eles é contraditória e explosiva, e ambos superam inúmeros obstáculos e caminhos obscuros.<br><br>
+Adorei o processo de superação da Ava, como ela conseguiu enfrentar todas as suas fases mais sombrias e ser ela própria, no seu estado mais feliz e mais brilhante. E fiquei num estado de completa alegria ao ler sobre todas as personagens que fazem parte desta saga, e sobre um casamento muito especial. Eles entraram realmente nos meus sonhos e nos meus pensamentos.<br><br>
+“Legado dos Deuses” não podia ter terminado de forma mais perfeita e épica do que com a Ava e o Eli. Foi o final de uma era muito especial.<br><br>
+Dou muito mais do que 5 estrelas a toda esta saga que ficou no meu coração, para sempre.`,
+            signedBy: "Sara Rebeca"
+        },
+
+        "A Paciente Silenciosa": {
+            stars: "★★★★☆",
+            quote: "O silêncio dela funcionava como um espelho; refletia a nossa própria imagem.",
+            text: `Alex Michaelides brinca com a mente do leitor de forma tão sinistra e perturbadora que é impossível não carregarmos esta história connosco muito depois de a terminarmos.<br><br>
+“A Paciente Silenciosa” é um thriller psicológico complexo e profundamente inquietante, que começa de forma lenta mas culmina num final arrepiante.<br><br>
+De início, pensei que a história seria contada maioritariamente pela perspectiva da paciente, Alicia Berenson, o que me deixou um pouco desiludida por ter sido, em vez disso, contada do ponto de vista do psicoterapeuta, Theo Faber. No entanto, rapidamente percebi que a trama estava estruturada de outra forma e que, no final, todas as peças se iriam interligar.<br><br>
+Theo primeiramente afirma que não se quer apresentar porque a história não é sobre si, mas sobre Alicia, e de facto, apresenta-a de imediato ao leitor. É no capítulo seguinte que Theo fala bastante sobre si próprio e sobre a sua infância, e foi aí que eu pensei: “Mas como é que o autor vai relacionar isto com a paciente?”. Surgiram-me várias ideias de plot twists, mas, no fim, nenhuma das reviravoltas que imaginei chegaram perto do plot twist perturbador que esta história teve. A maneira como foi contada foi de génio.<br><br>
+A escrita de Alex Michaelides é extremamente fluida e envolvente, tornando a leitura viciante. O autor consegue enganar o leitor com uma mestria impressionante e mente-nos descaradamente, algo de que só nos apercebemos muito mais tarde.<br><br>
+Alicia é uma pintora famosa que vive feliz com o seu marido, Gabriel. Porém, numa noite, mata-o com cinco tiros e nunca mais diz uma palavra, nem para se defender em tribunal, acabando assim por ir parar a uma instituição de alta segurança no norte de Londres.<br><br>
+E é aqui que Theo Faber aparece, vários anos após este acontecimento, determinado em decifrar a mente de Alicia e o motivo que a levou a cometer o homicídio do marido.<br><br>
+Theo é um psicoterapeuta forense que vê uma oportunidade de trabalhar com Alicia e agarra-a sem pensar duas vezes, decidido a fazê-la falar.<br><br>
+A ideia das duas perspectivas, tanto do diário de Alicia como a de Theo, é o factor mais intrigante do livro. Alicia parece ser duas pessoas completamente diferentes dependendo do ponto de vista, o que deixa o leitor sempre na dúvida sobre quem ela realmente é, e se é efetivamente culpada ou não.<br><br>
+Outro fator interessante neste livro, é que o autor cria um simbolismo entre Alceste e Alicia. Alceste é uma heroína da mitologia grega que sacrifica voluntariamente a sua própria vida pela vida do marido, Admeto. Alicia identifica-se com Alceste e o significado por detrás disto é do mais perturbador que há.<br><br>
+Também Theo se identifica com Alicia à medida que vai descobrindo mais sobre a sua infância. Existem inúmeros fatores que espelham a vida de Theo com a vida de Alicia, o que é simplesmente impressionante.<br><br>
+Michaelides é realmente um génio por criar no leitor uma dúvida constante sobre o verdadeiro caráter das personagens e as suas intenções, resultando assim numa das reviravoltas mais macabras e perturbadoras que já li.`,
+            signedBy: "Sara Rebeca"
+        },
+
+        "A Casa do Outro Lado do Lago": {
+            stars: `★★★<span style="position:relative; display:inline-block; color:#ccc;">☆<span style="position:absolute; left:0; top:0; width:50%; overflow:hidden; color:#B8962E;">★</span></span>☆`,
+            quote: "O lago é mais escuro do que um caixão com a tampa fechada.",
+            text: `“A Casa do Outro Lado do Lago” é um thriller psicológico, escrito por Riley Sager. É uma história que se inicia de forma lenta e que se vai desenvolvendo com vários plot twists bastante fora da caixa.<br><br>
+Este thriller gira em torno de Casey Fletcher, uma atriz bastante polémica e em processo de luto pela perda do marido, Len.<br><br>
+Para se manter afastada dos holofotes, Casey refugia-se na casa de família situada junto ao lago Greene, em Vermont. Sempre encontrou naquele lugar um aconchego que lhe trazia paz. Em criança, as inúmeras histórias assombrosas sobre o lago assustavam-na, sobretudo durante a noite, mas isso nunca a impediu de passar os dias a nadar nas suas águas com a prima, Marnie.<br><br>
+O lago é lindo visto de fora, mas, por mais que se olhe, existe sempre algo para lá da superfície que permanece escondido, e ela tem andado a observar.<br><br>
+Len morreu afogado nesse mesmo lago há um ano atrás, e, de modo a lidar com a dor, Casey procura consolo na bebida.<br><br>
+Um dos aspetos mais marcantes no livro é o facto de o autor conseguir descrever tão detalhadamente o processo de autodestruição em que a personagem mergulha, consumindo-a de tal maneira que a faz descrever a bebida como sendo um verdadeiro amigo.<br><br>
+Como está isolada, Casey passa os seus dias a observar os vizinhos do alpendre. Ela observa particularmente Tom e Katherine, que vivem na casa de vidro do outro lado do lago.<br><br>
+Casey sente especial responsabilidade por Katherine, uma ex-modelo, depois de a ter salvado de se afogar no lago. Assim que a viu inerte na água, soube que tinha de fazer alguma coisa para que Katherine não tivesse o mesmo destino que o seu marido.<br><br>
+Ao observar continuamente a enorme casa de vidro, que com certeza vale milhões, descobre segredos entre Tom e Katherine. Casey fica fascinada e obcecada com a mulher que salvou da morte, criando assim um elo de ligação entre as duas. No entanto, Katherine começa a ter comportamentos estranhos e simplesmente desaparece sem qualquer explicação.<br><br>
+Fletcher acha toda esta situação muito estranha e insiste em saber onde Katherine está, convencida de que o marido lhe fez mal.<br><br>
+Achei o discurso de Casey bastante repetitivo ao longo do livro, isto porque ela frisava sempre o mesmo ponto vezes e vezes sem conta. Este pormenor fez com que se tornasse difícil de continuar a leitura, mas ao mesmo tempo, continuava interessada em saber como tudo terminaria.<br><br>
+Ao ler da perspetiva de Casey, fiquei também com a sensação de que ela pensava que estava num filme. Para além de que é super paranóica, e uma vez que ingere bebidas alcoólicas de forma constante, é um pouco difícil de acreditar nela, fazendo dela uma narradora não confiável.<br><br>
+A história em si é original, porém, houve algo na escrita do autor que não me impactou ao ponto de provocar aqueles arrepios intensos que se costuma sentir ao ler este género de livros.<br><br>
+A meio da leitura, a história começou a ficar cada vez mais interessante, com reviravoltas atrás de reviravoltas. No entanto, fiquei um pouco desiludida com a explicação e o final nada realista, uma vez que o autor optou por um caminho mais sobrenatural.`,
+            signedBy: "Sara Rebeca"
+        },
+
+        "Pedra, Papel, Tesoura": {
+            stars: "★★★★★",
+            quote: "Não fomos sempre as pessoas que somos agora, mas as nossas memórias do passado podem fazer-nos mentirosos a todos.",
+            text: `“Pedra, Papel, Tesoura”, de Alice Feeney, é um dos melhores thrillers que já li. É magistralmente complexo, engenhoso e cheio de artimanhas.<br><br>
+Este thriller conta a história de Amelia e Adam, um casal que, em tempos, esteve profundamente apaixonado, mas que, hoje em dia, se encontra cada vez mais distante.<br><br>
+Amelia Wright ficou órfã mesmo antes de nascer, depois de ambos os pais terem morrido num acidente de viação enquanto ela ainda estava no ventre da mãe. Ela trabalha num canil porque prefere a companhia dos animais à das pessoas. Os animais não guardam rancor.<br><br>
+Adam Wright é um argumentista com o sonho de adaptar a sua própria história “Pedra, Papel, Tesoura” para o grande ecrã, mas nunca teve sucesso, pelo que há muito que se contenta em contar as histórias das outras pessoas.<br><br>
+Adam sofre de uma disfunção neurológica chamada prosopagnosia. Esta condição faz com que não seja capaz de reconhecer traços em rostos, incluindo o da mulher e o dele próprio.<br><br>
+Com o casamento em crise, Amelia está convencida de que um fim‑de‑semana fora, na capela de Blackwater, na Escócia, os vai ajudar a reaproximarem-se. Se não resultar, então o casamento irá terminar de vez e só um voltará para casa. Uma coisa ela já pôs na cabeça: depois deste fim‑de‑semana as coisas nunca mais serão as mesmas (e não serão mesmo).<br><br>
+Assim que chegam à longínqua e isolada capela, ambos ficam com uma sensação estranha, porque esta parece um sítio que não é habitado há anos, cheio de pó e de recantos sinistros.<br><br>
+Surge também uma personagem misteriosa ligada à capela de Blackwater. Robin começa a persegui-los e a manipulá-los através de jogos psicológicos, sem que o casal se aperceba de que o jogo já começou. Em Blackwater, nada é o que aparenta ser.<br><br>
+Esta história anda também para trás no tempo. Todos os anos, no aniversário de casamento, o casal troca prendas tradicionais, como algodão, couro, linho, e a mulher de Adam escreve cartas para ele, só que nunca as entrega. Ela tirou esta ideia do argumento de Adam, “Pedra, Papel, Tesoura”, uma história que retrata um amor retorcido de um homem que escreve cartas para a mulher mesmo depois de morta.<br><br>
+Adam Wright é também obcecado pelo grande escritor Henry Winter, que nunca permitiu que os seus livros fossem adaptados por nenhum argumentista. Mas, inesperadamente, convida Adam a contar uma obra sua. Só que Adam não sabe que esta mudança repentina se deveu à sua mulher, e é a partir daqui que tudo começa a mudar no seu casamento. Henry está mais ligado ao casal do que parece à primeira vista.<br><br>
+Ver como o casal muda de ano para ano, à medida que as mentiras e os segredos se acumulam, e perceber como estão hoje em dia, provoca um sentimento de melancolia no leitor.<br><br>
+É difícil descrever com precisão o que este livro me fez sentir, mas posso dizer, com absoluta certeza, que me senti numa verdadeira montanha-russa de emoções, repleta de mistérios, mentiras e segredos. A complexidade desta história provocou-me arrepios.<br><br>
+Adoro a escrita de Alice Feeney. “Pedra, Papel, Tesoura” é o segundo livro que leio da autora, e ela continua a surpreender. Devorei este thriller, porque, literalmente, não conseguia obrigar-me a parar de ler.<br><br>
+Os capítulos são curtos, fazendo com que seja fácil perdermo-nos e viciarmos na história. “Pedra, Papel, Tesoura” é daqueles livros que quando vês, já leste mais de metade do livro de uma assentada só.<br><br>
+É impressionante a forma como a autora consegue brincar com as palavras e ludibriar o leitor. É realmente uma experiência espantosa voltar a ler as primeiras páginas do livro e ver como a autora dá tantas pistas subtis sobre quem é quem.<br><br>
+“Pedra, Papel, Tesoura” é uma obra incrível cheia de segredos, jogos e mentiras, e espantosamente distorcida.`,
+            signedBy: "Sara Rebeca"
+        },
+        
         "Deus da Ira": {
             stars: `★★★★<span style="position:relative; display:inline-block; color:#ccc;">☆<span style="position:absolute; left:0; top:0; width:50%; overflow:hidden; color:#B8962E;">★</span></span>`,
             quote: "Ele quer perseguir-me. Consigo ver nos seus olhos cinzento-escuros que ele quer que eu fuja. Não, ele deseja-o. Está à espera de que eu fuja para poder divertir-se a perseguir-me. Como naquela floresta.",
